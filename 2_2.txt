@@ -1,115 +1,115 @@
-Ulemper med digitalt utstyr
-utstyr
-Ulemper
-Det er selvfølgelig, at
-Det er selvfølgelig ikke bare fordeler med digitale systemer.
-En stor ulempe
-fare for ...
-tap av data 
-ikke lar seg bruke i system
-svikter
-å samle mye informasjon
-konsekvensene 
-PC går i stykker eller mistes
-kjedelig
-Enda verre kan det være hvis ...
-Enkelte ganger kan det ...
-skape problemer 
-å flytte
-fra ett system til et annet
-lar seg 
-Port 80 lar seg ikke åpne
-nødvendig programvare 
-I andre tilfeller ...
-kan det være problematisk å få 
-å få tak i informasjon 
-det fysiske utstyret er gått ut på dato
-I tillegg til...
-å tolke dataene
-Vi sier gjerne at ...
-kopiere og overføre til andre steder
-uten tap av kvalitet
-utgangspunktet 
-På den annen side ...
-selskaper
-redd for at ...
-bli så vanlig at 
-å innføre
-Programvarefeil
-er styrt av programvare. 
-feilfunksjoner 
-system henger seg opp
-Som regel ...
-Som regel kan vi få i gang systemet med å starte opp på nytt. 
- Slike feil 
-velkjente 
- Slike feil er velkjente for en som har brukt PC en stund
-tilsvarende feil 
-tilsvar
-Fordelen med denne typen feil er ...
-Feilen oppstår oftest under høy belastning
-å sende inn hele apparated til service.
-begreper
-I forbindelse med ...
-Lagringskapasitet
-Lagring
-kapasitet
-I den digitale verden
-La oss se nærmere på ...
-I avsnittet
-Ett slikt tall kalles en bit. 
-tegnsett
-bokstav
-tilsvarende
-En MP3-spiller vil ha plass til 2000 låter.
-Hastighet
-For å beskrive ... brukes gjerne begreper som ...
-antall 
-overføre
-...la oss si ...
-altså 
-lagringsmedium
-noe lavere
-I forbindelse med ...
-effektiv komprimering 
-datamengden
-Ved å komprimere fil vil vi få en fil som er 4 til 6 MB stor.
-lagre den mengden informasjon
-Oppløsning
-forbindelse 
-Oppløsningen beskriver hvor mange punkter et bilde er bygd opp av. 
-bygd opp av....
-I televisjonens barndom
-bildet skaleres om
-Dette gjøres som regel automatisk i programvaren vi bruker.
-Hver byte har informasjon om hver sin grunnfarge rød, grønn og blå.
-i bredden
-I dagens
-vi ordet digital i stadig nye sammenhenger.  
-Vi kan nevne
-kommunikasjon
-en rekke steder
-i hverdagen 
-i første omgang
-forbinder 
-fleste 
-de fleste elektroniske apparater
-Opprinnelsen 
-Opprinnelsen til ordet digital kommer fra latin, og ordet betyr finger
-I en friere oversettelse
-arbeider altså
-Et slikt system
-tallene 
-verdier 
-mellom to hele tall
-Motsetningen 
-kontinuerlig variable verdier.
-Eksempler på produkter som finnes både i «mekanisk» og digital utgave
-Speedometer med viser
-Vinylplate 
-Smarte lyspærer
-kobles
-lyspærer som kan kobles til et trådløst nett og fjernstyres.
-Eksempler på hvordan tall blir representert digitalt
-binære 
-titallsystemet 
+Ulemper med digitalt utstyr;Недостатки цифрового оборудования
+et utstyr -- utstyr ; оборудование
+en ulempe -- ulemper ; недостаток
+Det er selvfølgelig, at;Само собой разумеется, что
+Det er selvfølgelig ikke bare fordeler med digitale systemer.;У цифровых систем, конечно, есть не только преимущества.
+En stor ulempe;Большой недостаток
+en fare -- farer ; опасность
+tap av data;потеря данных
+ikke lar seg bruke i system;не может быть использовано в системе
+å svikte -- sviktet -- sviktet ; выходить из строя
+å samle mye informasjon;собирать много информации
+en konsekvens -- konsekvenser ; последствие
+PC går i stykker eller mistes;ПК ломается или теряется
+kjedelig;досадно
+Enda verre kan det være hvis ...;Еще хуже может быть, если ...
+Enkelte ganger kan det ...;Иногда это может ...
+å skape problemer -- skapte problemer -- skapt problemer ; создавать проблемы
+å flytte -- flyttet -- flyttet ; перемещать
+fra ett system til et annet;с одной системы на другую
+lar seg;может быть (сделано)
+Port 80 lar seg ikke åpne;Порт 80 не открывается
+nødvendig programvare;необходимое программное обеспечение
+I andre tilfeller ...;В других случаях ...
+kan det være problematisk å få;может быть проблематично получить
+å få tak i informasjon;получить доступ к информации
+det fysiske utstyret er gått ut på dato;физическое оборудование устарело
+I tillegg til...;В дополнение к...
+å tolke dataene;интерпретировать данные
+Vi sier gjerne at ...;Мы часто говорим, что ...
+kopiere og overføre til andre steder;копировать и переносить в другие места
+uten tap av kvalitet;без потери качества
+et utgangspunkt -- utgangspunkt ; исходная точка
+På den annen side ...;С другой стороны ...
+et selskap -- selskaper ; компания
+redd for at ...;бояться, что ...
+bli så vanlig at;стать настолько обычным, что
+å innføre -- innførte -- innført ; вводить, внедрять
+en programvarefeil -- programvarefeil ; программная ошибка
+er styrt av programvare.;управляется программным обеспечением.
+en feilfunksjon -- feilfunksjoner ; сбой, ошибка в работе
+system henger seg opp;система зависает
+Som regel ...;Как правило ...
+Som regel kan vi få i gang systemet med å starte opp på nytt.;Как правило, мы можем запустить систему, перезагрузив ее.
+Slike feil;Такие ошибки
+velkjente;хорошо известные
+Slike feil er velkjente for en som har brukt PC en stund;Такие ошибки хорошо знакомы тому, кто пользовался ПК какое-то время
+tilsvarende feil;аналогичные ошибки
+et tilsvar -- tilsvar ; соответствие, аналог
+Fordelen med denne typen feil er ...;Преимущество этого типа ошибок в том, что ...
+Feilen oppstår oftest under høy belastning;Ошибка чаще всего возникает при высокой нагрузке
+å sende inn hele apparated til service.;сдать все устройство в сервисный центр.
+et begrep -- begreper ; понятие, термин
+I forbindelse med ...;В связи с ...
+Lagringskapasitet;Емкость хранения
+en lagring -- lagringer ; хранение
+en kapasitet -- kapasiteter ; вместимость, емкость
+I den digitale verden;В цифровом мире
+La oss se nærmere på ...;Давайте рассмотрим подробнее ...
+I avsnittet;В параграфе
+Ett slikt tall kalles en bit.;Такое число называется битом.
+et tegnsett -- tegnsett ; набор символов
+en bokstav -- bokstaver ; буква
+tilsvarende;соответствующий
+En MP3-spiller vil ha plass til 2000 låter.;МР3-плеер вмещает 2000 песен.
+en hastighet -- hastigheter ; скорость
+For å beskrive ... brukes gjerne begreper som ...;Для описания ... часто используются такие понятия, как ...
+et antall -- antall ; количество
+å overføre -- overførte -- overført ; передавать
+...la oss si ...;...скажем так...
+altså;таким образом
+et lagringsmedium -- lagringsmedier ; носитель информации
+noe lavere;несколько ниже
+I forbindelse med ...;В связи с ...
+effektiv komprimering;эффективное сжатие
+en datamengde -- datamengder ; объем данных
+Ved å komprimere fil vil vi få en fil som er 4 til 6 MB stor.;Сжав файл, мы получим файл размером от 4 до 6 МБ.
+å lagre den mengden informasjon;сохранить такой объем информации
+en oppløsning -- oppløsninger ; разрешение
+en forbindelse -- forbindelser ; соединение, связь
+Oppløsningen beskriver hvor mange punkter et bilde er bygd opp av.;Разрешение описывает, из скольких точек состоит изображение.
+bygd opp av....;состоит из...
+I televisjonens barndom;В детстве телевидения
+bildet skaleres om;изображение масштабируется
+Dette gjøres som regel automatisk i programvaren vi bruker.;Это обычно делается автоматически в используемом нами программном обеспечении.
+Hver byte har informasjon om hver sin grunnfarge rød, grønn og blå.;Каждый байт содержит информацию о своем основном цвете: красном, зеленом и синем.
+i bredden;в ширину
+I dagens;В сегодняшних
+vi ordet digital i stadig nye sammenhenger.;мы встречаем слово "цифровой" в постоянно новых контекстах
+Vi kan nevne;Мы можем упомянуть
+en kommunikasjon -- kommunikasjoner ; коммуникация
+en rekke steder;ряд мест
+i hverdagen;в повседневной жизни
+i første omgang;в первую очередь
+å forbinde -- forbant -- forbundet ; связывать
+fleste;большинство
+de fleste elektroniske apparater;большинство электронных устройств
+en opprinnelse -- opprinnelser ; происхождение
+Opprinnelsen til ordet digital kommer fra latin, og ordet betyr finger;Происхождение слова "цифровой" comes from Latin, and the word means "палец"
+I en friere oversettelse;В более свободном переводе
+å arbeide -- arbeidet -- arbeidet ; работать
+Et slikt system;Такая система
+et tall -- tall ; число
+en verdi -- verdier ; значение
+mellom to hele tall;между двумя целыми числами
+en motsetning -- motsetninger ; противоположность
+kontinuerlig variable verdier;непрерывно переменные значения
+Eksempler på produkter som finnes både i «mekanisk» og digital utgave;Примеры продуктов, которые существуют как в «механической», так и в цифровой версии
+Speedometer med viser;Спидометр со стрелкой
+ei vinylplate -- vinylplater ; виниловая пластинка
+Smarte lyspærer;Умные лампочки
+å koble -- koblet -- koblet ; подключать
+lyspærer som kan kobles til et trådløst nett og fjernstyres.;лампочки, которые можно подключить к беспроводной сети и управлять дистанционно
+Eksempler på hvordan tall blir representert digitalt;Примеры того, как числа представляются в цифровом виде
+binære;двоичные
+titallsystemet;десятичная система
