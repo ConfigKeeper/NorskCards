@@ -1,0 +1,67 @@
+ ПОСТОЯННО - Всё больше СМИ цифровые.;en STADIG - stadig - Stadig flere medier vi bruker, er digitale. 
+ ЗВУК - Звук в виде MP3 и CD давно цифровой.;et LYD - lyd - Lyd i form av MP3-filer og CD-er har lenge vært digital. 
+ ЛИБО ... ЛИБО ... - либо хлеб, либо паста на ужин.;enten... eller... - - Enten brød eller pasta til middag. 
+ РАДИОПЕРЕДАЧА - Я люблю слушать радиопередачи утром.;en RADIO - radiosending - Jeg liker å høre på radiosendinger om morgen. 
+ ПРИНИМАТЬ - Приемник принимает сигнал.;å TA IMOT - ta imot - Mottakeren tar imot signalet. 
+ ПО ВСЕЙ СТРАНЕ - Все национальные (по всей стране) каналы передают новости.;en LANDSDEKKENDE - landsdekkende - Alle landsdekkende kanaler sender nyheter. 
+ ФОТОГРАФИЯ - Фотография — это хороший хобби.;en FOTOGRAFERING - fotografering - Fotografering er en fin hobby. 
+ САМОЕ - То же касается видеосъемки.;et SAMME - samme - Det samme gjelder filming. 
+ КАСАТЬСЯ - То же касается всех.;å GJELDE - gjaldt - Det samme gjelder for alle. 
+ ПК - Я использую свой ПК каждый день.;en PC - PC - Jeg bruker min PC hver dag. 
+ ИСПОЛЬЗОВАТЬСЯ - Технология используется везде.;å BLI BRUKT - ble brukt - Teknologien blir brukt overalt. 
+ ИСПОЛЬЗОВАТЬСЯ - Этот метод долго использовался.;å VÆRE I BRUK - vært i bruk - Denne metoden har lenge vært i bruk. 
+ ДАВАТЬ - Музыка дает нам радость.;å GI - gav - Musikken gir oss glede. 
+ ФОРМАТ ХРАНЕНИЯ - MP3 — популярный формат хранения.;et LAGRINGSFORMAT - lagringsformat - MP3 er et populært lagringsformat. 
+ В ТОМ ЧИСЛЕ - У нас были фрукты, овощи, в том числе яблоки.;blant ANNET - blant annet - Vi hadde frukt, grønnsakar, blant annet epler. 
+ СНАЧАЛА ... ПОТОМ ... - сначала я должен был читать, потом писать.;Først... . Seinere... . - - Først måtte jeg lese, seinere skulle jeg skrive. 
+ ТЕЛЕФОННЫЙ ЗВОНОК - У меня был долгий телефонный разговор с другом.;en TELEFONSAMTALE - telefonsamtale - Jeg hadde en lang telefonsamtale med vennen. 
+ ДЛЯ КАЖДОГО ОТДЕЛЬНО - Это касается каждого отдельного члена.;til HVERT ENKELT - - Dette gjelder til hvert enkelt medlem. 
+ БОЛЬШИНСТВО ИЗ - Большинство работы завершено.;det MESTE AV - - Det meste av arbeidet er ferdig. 
+ ПРОСТОЙ - Задача была очень простой.;en ENKELT - enkelt - Oppgaven var veldig enkel. 
+ ОБНОВЛЯТЬ - Я должен обновить свое программное обеспечение.;å OPPDATERE - oppdatert - Jeg må oppdatere programvaren min. 
+ РЕГУЛЯРНО - Мы встречаемся регулярно каждую неделю.;jevnlig - jevnlig - Vi møtes jevnlig hver uke. 
+ ЧЕРЕЗ МОБИЛЬНОЕ СОЕДИНЕНИЕ - Данные отправляются через мобильное соединение.;gjennom FORBINDELSEN TIL MOBILTELEFONEN - - Data sendes gjennom forbindelsen til mobiltelefonen. 
+ ОБЕСПЕЧИВАТЬ - Учитель позаботился о том, чтобы у всех были книги.;å SØRGE FOR - sorget for - Læreren sørget for at alle hadde bøker. 
+ ЖЕСТКИЙ ДИСК - Мне нужно купить больший жесткий диск.;en HARDDISK - harddisk - Jeg må kjøpe en større harddisk. 
+ ... НА САМОМ ДЕЛЕ ЯВЛЯЕТСЯ ... - Батарея на самом деле является источником энергии.;... ER JØ EGENTLIG EN ... - - Et batteri er jo egentlig en energikilde. 
+ ВАРИАЦИЯ - Эта вариация болезни серьезна.;et VARIASJON - variasjon - Denne variasjon av sykdommen er alvorlig. 
+ ДАВЛЕНИЕ ВОЗДУХА - Давление воздуха влияет на погоду.;et LUFTTRYKK - lufttrykk - Lufttrykket påvirker været. 
+ ЗАХВАТЫВАТЬ - Микрофон захватывает каждый звук.;å FANGE OPP - fanget opp - Mikrofonen fanger opp hver lyd. 
+ ДАВЛЕНИЕ - Он чувствовал давление на работе.;et TRYKK - trykk - Han følte trykket fra jobben. 
+ ПРЕОБРАЗОВЫВАТЬ - Мы преобразуем старую мебель в новую.;å GJØRE OM - gjorde om - Vi gjør om gamle møbler til nye. 
+ ВАРЬИРОВАТЬ - Цена варьировалась день за днем.;å VARIERE - varierte - Prisen varierte fra dag til dag. 
+ В ТАКТ - Музыканты маршировали в такт.;i TAKT - - Musikerne marsjerte i takt. 
+ ОБРАБАТЫВАТЬ - Врач хорошо лечил пациента.;å BEHANDLE - behandlet - Legen behandlet pasienten godt. 
+ РОВНЫЙ - Дорога была ровной и гладкой.;jevne - jevne - Veien var jevn og glatt. 
+ ОРИГИНАЛЬНЫЕ - Первоначальные планы были другими.;opprinnelige - opprinnelige - De opprinnelige planene var andre. 
+ Пример - Музыкант использует семплер для создания музыки.;en SAMPLER - sampler - En musiker bruker en sampler til å lage musik. 
+ ИЗМЕРЯЕТСЯ В ... - Длина измеряется в метрах и километрах.;måles i ... - - Lengde måles i meter og kilometer. 
+ СОВЕРШАТЬ - Мы должны провести расследование.;å FORETA - foretok - Vi skal foreta en undersøkelse. 
+ ИЗМЕРЕНИЕ - Врач измерил температуру.;en MÅLING - måling - Legen tok en måling av temperaturen. 
+ ОПРЕДЕЛЕННАЯ ТОЧНОСТЬ - Он работает с определенной точностью.;viss PRESISJON - - Han arbeider med viss presisjon. 
+ ВОССТАНАВЛИВАТЬ - Художник восстановил картину по памяти.;å GJENSKAPE - gjenskapte - Kunstneren gjenskapte bildet fra hukommelsen. 
+ ПОТОМУ ЧТО - Поскольку он болен, он не может придти.;I og MED - - I og med at han er syk, kan han ikke komme. 
+ СЧИТАТЬ - Он быстро вычислил ответ.;å REGNE - regnet - Han regnet ut svaret raskt. 
+ ДИСКРЕТИЗАЦИЯ - Дискретизация музыки — это техника.;en SAMPLING - sampling - Sampling av musikk er en teknikk. 
+ ПРАКТИЧЕСКИЙ СПОСОБ - Мы решаем проблему практическим способом.;ei PRAKTISK MÅTE - praktisk måte - Vi løser problemet på en praktisk måte. 
+ ОБРАБАТЫВАТЬ - Мы обрабатываем данные правильно.;å BEHANDLE - behandlet - Vi behandler data korrekt. 
+ В КОНЦЕ - В конце он поблагодарил всех.;til SLUTT - - Til slutt takket han alle. 
+ ПОЛУЧАТЬ - Я получил результат расчета.;å FÅ UT - fikk ut - Jeg fikk ut resultatet fra beregningen. 
+ ... ЧАСТО ИСПОЛЬЗУЕТСЯ - Формат MP3 часто используется в мире.;... ER MYE BRUKT - - MP3-format er mye brukt i verden. 
+ ЦИФРОВИЗАЦИЯ - Цифровизация архивов занимает время.;en DIGITALISERING - digitalisering - Digitaliseringen av arkiver tar tid. 
+ ЧИСЛОВОЕ ЗНАЧЕНИЕ - Каждое числовое значение имеет значение.;en TALLVERDI - tallverdier - Hver tallverdi har betydning. 
+ КАЖДЫЙ ОТДЕЛЬНО - Я разговариваю с каждым отдельным студентом.;hver ENKELT - - Jeg snakker med hver enkelt student. 
+ СКОРОСТЬ - Машина ехала с большой скоростью.;en HASTIGHET - hastighet - Bilen kjørte med stor hastighet. 
+ РАСШИРЯТЬ - Сеть расширена в большей части Норвегии.;å BYGGE UT - bygd ut - Nettverket er bygd ut i størstedelen av Norge. 
+ В БОЛЬШИНСТВЕ НОРВЕГИИ - Эта технология присутствует в большей части Норвегии.;i STØRSTEDELEN AV NORGE - - Denne teknologien fins i størstedelen av Norge. 
+ ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ - Мы нашли дополнительную информацию на веб-сайте.;en TILLEGGSINFORMASJON - tilleggsinformasjon - Vi fant tilleggsinformasjon på websiden. 
+ ОБЗОР - Отчет дает обзор результатов.;en OVERSIKT - oversikt - Rapporten gir en oversikt over resultatene. 
+ ОТНОСИТЕЛЬНО - Цена относительно разумная.;forholdsvis - forholdsvis - Prisen er forholdsvis rimelig. 
+ СЖАТИЕ - Сжатие файла заняло короткое время.;en KOMPRIMERING - komprimering - Komprimeringen av filen tok kort tid. 
+ ПРИВОДИТЬ К - Ошибка привела к большим проблемам.;å FØRE TIL - førte til - Feilen førte til store problemer. 
+ ОБНОВЛЯТЬ - Система была обновлена сегодня.;å OPPDATERE - oppdatert - Systemet ble oppdatert i dag. 
+ ПОТОКОВАЯ ПЕРЕДАЧА - Мы транслировали фильм через интернет-соединение.;å STRØMME - strømmet - Vi strømmet en film via Internettforbindelse. 
+ ЧЕРЕЗ - Я отправил сообщение по электронной почте.;via - via - Jeg sendte meldingen via e-post. 
+ ИНТЕРНЕТ-СОЕДИНЕНИЕ - Интернет-соединение было быстрым.;en INTERNETTFORBINDELSE - internettforbindelsen - Internettforbindelsen var rask. 
+ ПРИЕМНИК - Приемник получил сообщение.;en MOTTAKER - mottaker - Mottakeren mottok meldingen. 
+ В ДОПОЛНЕНИЕ - Кроме того, мы должны помнить это.;i TILLEGG - - I tillegg til det, må vi også huske dette. 

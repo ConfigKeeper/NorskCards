@@ -1,3 +1,91 @@
+I dagens...;В сегодняшних...
+vi ordet digital i stadig nye sammenhenger;мы встречаем слово "цифровой" в постоянно новых контекстах
+Vi kan nevne;Мы можем упомянуть
+en kommunikasjon -- kommunikasjoner ; коммуникация
+en rekke steder;ряд мест
+i hverdagen;в повседневной жизни
+i første omgang;в первую очередь
+å forbinde -- forbant -- forbundet ; связывать
+fleste;большинство
+de fleste elektroniske apparater;большинство электронных устройств
+en opprinnelse -- opprinnelser ; происхождение
+Opprinnelsen til ordet digital kommer fra latin, og ordet betyr finger;Происхождение слова "цифровой" comes from Latin, and the word means "палец"
+I en friere oversettelse;В более свободном переводе
+å arbeide -- arbeidet -- arbeidet ; работать
+Et slikt system;Такая система
+et tall -- tall ; число
+en verdi -- verdier ; значение
+mellom to hele tall;между двумя целыми числами
+en motsetning -- motsetninger ; противоположность
+kontinuerlig variable verdier;непрерывно переменные значения
+Eksempler på produkter som finnes både i «mekanisk» og digital utgave;Примеры продуктов, которые существуют как в «механической», так и в цифровой версии
+Speedometer med viser;Спидометр со стрелкой
+ei vinylplate -- vinylplater ; виниловая пластинка
+Smarte lyspærer;Умлые лампочки
+å koble -- koblet -- koblet ; подключать
+lyspærer som kan kobles til et trådløst nett og fjernstyres;лампочки, которые можно подключить к беспроводной сети и управлять дистанционно
+Eksempler på hvordan tall blir representert digitalt;Примеры того, как числа представляются в цифровом виде
+binære;двоичные
+titallsystemet;десятичная система
+Grunnverdien i ... er ...;Базовое значение в ... это ...
+å lagre -- lagret -- lagret ; сохранять
+en lyd -- lyder ; звук
+Hvis vi ser på ... meg ... , vil vi se at ...;Если мы посмотрим на ... меня ... , мы увидим, что ...
+en overflate -- overflater ; поверхность
+består av;состоит из
+ei grop -- groper ; яма, углубление
+CD-platen;CD-диск
+oversette til ...;переводить на ...
+En datamaskin i form av en PC;Компьютер в форме ПК
+er av de mest avanserte systemene vi møter i hverdagen;является одной из самых продвинутых систем, с которыми мы сталкиваемся в повседневной жизни
+Alt som skjer inne i maskinen ...;Все, что происходит внутри машины ...
+er basert på ...;основано на ...
+Bruk av ... gjør det relativt enkelt å lage ...;Использование ... делает относительно простым создание ...
+Å lage en datamaskin;Создавать компьютер
+med dagens teknologi være umulig;с современными технологиями было бы невозможно
+eller i beste fall svært vanskelig;или в лучшем случае очень сложно
+ei vinylplate -- vinylplater ; виниловая пластинка
+vanligst;самый обычный
+et lydsystem -- lydsystemer ; звуковая система
+å lagre -- lagret -- lagret ; сохранять
+Hvis vi ser nærmere på ... vil vi se at ..;Если мы посмотрим ближе на ... мы увидим, что ..
+i virkeligheten;на самом деле
+ett spor -- spor ; след, дорожка
+som er utformet;который разработан
+er spilt inn på platen;записан на пластинку
+å la -- lot -- latt ; позволять
+så gjøres;затем делается
+en bevegelse -- bevegelser ; движение
+kan så gjøres;может затем быть сделано
+en forsterker -- forsterkere ; усилитель
+i høyttalerne;в колонках
+Hvilke fordeler har vi så av å bruke ..;Какие преимущества мы тогда имеем от использования ..
+en fordel -- fordeler ; преимущество
+Mulighet for å lage avanserte systemer;Возможность создавать продвинутые системы
+mulig;возможный
+å utføre -- utførte -- utført ; выполнять
+programmerbare systemer;программируемые системы
+å endre -- endret -- endret ; изменять
+en programvare -- programmer ; программное обеспечение
+det styrer;оно управляет
+Høy kvalitet;Высокое качество
+å kreve -- krevde -- krevd ; требовать
+De krever mindre plass både ved lagring og overføring;Они требуют меньше места как при хранении, так и при передаче
+ekstra data som beskriver lyden og bildene;дополнительные данные, которые описывают звук и изображения
+Rask tilgang;Быстрый доступ
+informasjon kan hentes frem lynraskt;информацию можно извлечь молниеносно
+På 90-tallet...;В 90-е годы...
+det var vanlig å bruke ...;было обычным делом использовать ...
+disketter med en størrelse på 5 sm.;дискеты размером 5 дюймов
+Hvis man i dag skulle prøve å ...;Если бы сегодня кто-то попытался ...
+ville man nok måtte lete en stund for å finne en PC;вероятно, пришлось бы поискать какое-то время, чтобы найти ПК
+en stund;некоторое время
+passende diskettstasjon;подходящий дисковод
+en samlebetegnelse -- samlebetegnelser ; собирательное обозначение
+ulike digitale teknologier;различные цифровые технологии
+opphavsrettsbeskyttet;защищенный авторским правом
+en bruksmulighet -- bruksmuligheter ; возможность использования
+å ha mål å begrense;иметь целью ограничить
 Ulemper med digitalt utstyr;Недостатки цифрового оборудования
 et utstyr -- utstyr ; оборудование
 en ulempe -- ulemper ; недостаток
