@@ -1,0 +1,91 @@
+en STADIG - stadig - Stadig flere nordmenn bruker digitale medier. ; ПОСТОЯННО - Всё больше норвежцев используют цифровые медиа.
+et LYD - lyd - Lyd i form av MP3-filer har lenge vært digital. ; ЗВУК - Звук в форме MP3-файлов давно цифровой.
+enten... eller... - - Enten kaffe eller te til frokost. ; ЛИБО ... ЛИБО ... - Либо кофе, либо чай на завтрак.
+TV-SENDINGER - TV-sendinger - Jeg ser på TV-sendinger hver kveld. ; ТЕЛЕПЕРЕДАЧИ - Я смотрю телепередачи каждый вечер.
+å TA IMOT - tok imot - Antennen tar imot signalet fra satellitten. ; ПРИНИМАТЬ - Антенна принимает сигнал со спутника.
+LANDSDEKKENDE - landsdekkende - NRK er en landsdekkende kringkaster. ; ОБЩЕНАЦИОНАЛЬНЫЙ - NRK — общенациональный broadcaster.
+ei RADIOSENDING - radiosendinger - Jeg hører radiosendinger på vei til jobb. ; РАДИОПЕРЕДАЧА - Я слушаю радиопередачи по дороге на работу.
+ei FOTOGRAFERING - fotograferinger - Fotografering er min hobby i helgene. ; ФОТОГРАФИЯ - Фотография — моё хобби по выходным.
+DET SAMME - det samme - Det samme gjelder for alle digitale medier. ; ТО ЖЕ САМОЕ - То же самое относится ко всем цифровым медиа.
+å GJELDE - gjaldt - Regelen gjelder for alle brukere. ; КАСАТЬСЯ - Правило касается всех пользователей.
+en PC - PC-er - Jeg oppgraderte min PC i forrige uke. ; ПК - Я обновил свой ПК на прошлой неделе.
+å BLI BRUKT - ble brukt - Smarttelefoner blir brukt overalt nå. ; ИСПОЛЬЗОВАТЬСЯ - Смартфоны используются везде сейчас.
+å VÆRE I BRUK - var i bruk - Denne teknologien har vært i bruk siden 90-tallet. ; ИСПОЛЬЗОВАТЬСЯ - Эта технология используется с 90-х.
+å GI - ga - Høyttalerne gir krystallklar lyd. ; ДАВАТЬ - Колонки дают кристально чистый звук.
+et LAGRINGSFORMAT - lagringsformater - MP3 er et populært lagringsformat. ; ФОРМАТ ХРАНЕНИЯ - MP3 — популярный формат хранения.
+blant ANNET - blant annet - Vi kjøpte epler, bananer, blant annet. ; В ТОМ ЧИСЛЕ - Мы купили яблоки, бананы, в том числе.
+Først... . Seinere... . - - Først leser vi, seinere diskuterer vi. ; СНАЧАЛА ... ПОТОМ ... - Сначала читаем, потом обсуждаем.
+ei TELEFONSAMTALE - telefonsamtaler - Jeg hadde en telefonsamtale med familien. ; ТЕЛЕФОННЫЙ РАЗГОВОР - У меня был телефонный разговор с семьёй.
+til HVERT ENKELT ... - - Instruksjonene gis til hvert enkelt medlem. ; ДЛЯ КАЖДОГО ОТДЕЛЬНО ... - Инструкции даются каждому отдельному члену.
+det MESTE AV... - - Det meste av trafikken går via fiber. ; БОЛЬШАЯ ЧАСТЬ ... - Большая часть трафика идёт через оптоволокно.
+et ENKELT - enkle - Dette er et enkelt eksempel på digitalisering. ; ПРОСТОЙ - Это простой пример цифровизации.
+å OPPDATERE - oppdaterte - Jeg oppdaterer telefonen månedlig. ; ОБНОВЛЯТЬ - Я обновляю телефон ежемесячно.
+jevnlig - jevnlig - Vi møtes jevnlig for å diskutere fremgang. ; РЕГУЛЯРНО - Мы регулярно встречаемся для обсуждения прогресса.
+gjennom FORBINDELSEN TIL MOBILTELEFONEN - - Data overføres gjennom forbindelsen til mobiltelefonen. ; ЧЕРЕЗ СОЕДИНЕНИЕ С МОБИЛЬНЫМ ТЕЛЕФОНОМ - Данные передаются через соединение с мобильным телефоном.
+en HARDDISK - harddisker - Harddisken er nesten full nå. ; ЖЁСТКИЙ ДИСК - Жёсткий диск почти полный сейчас.
+å SØRGE FOR - sørget for - Backup sørger for at data ikke forsvinner. ; ОБЕСПЕЧИВАТЬ - Резервное копирование обеспечивает, что данные не пропадут.
+... er jo egentlig en ... - - Et nettbrett er jo egentlig en liten laptop. ; ... НА САМОМ ДЕЛЕ ЯВЛЯЕТСЯ ... - Планшет на самом деле — маленький ноутбук.
+en VARIASJON AV... - variasjoner av - Dette er en variasjon av originaloppskriften. ; ВАРИАЦИЯ ... - Это вариация оригинального рецепта.
+et LUFTTRYKK - lufttrykk - Lufttrykket faller før stormen. ; ДАВЛЕНИЕ ВОЗДУХА - Давление воздуха падает перед бурей.
+å FANGE OPP - fanget opp - Mikrofonen fanger opp selv svake lyder. ; УЛАВЛИВАТЬ - Микрофон улавливает даже слабые звуки.
+et TRYKK - trykk - Jeg følte trykk fra fristelsene. ; ДАВЛЕНИЕ - Я чувствовал давление от соблазнов.
+en VARIASJON - variasjoner - Klimaet viser stor variasjon mellom sommer og vinter. ; ВАРИАЦИЯ - Климат показывает большую вариацию между летом и зимой.
+å GJØRE OM - gjorde om - Vi gjorde om leiligheten helt. ; ПРЕОБРАЗОВЫВАТЬ - Мы полностью преобразовали квартиру.
+å VARIERE - varierte - Temperaturen varierte fra 5 til 25 grader. ; ВАРЬИРОВАТЬ - Температура варьировалась от 5 до 25 градусов.
+i TAKT - - De danset i takt til musikken. ; В ТАКТ - Они танцевали в такт музыке.
+å BEHANDLE - behandlet - Legen behandlet pasienten raskt. ; ОБРАБАТЫВАТЬ - Врач быстро обработал пациента.
+jevne - jevne - Overflaten må være jevn før maling. ; РОВНЫЙ - Поверхность должна быть ровной перед покраской.
+opprinnelige - opprinnelige - Vi fulgte de opprinnelige instruksjonene. ; ПЕРВОНАЧАЛЬНЫЕ - Мы следовали первоначальным инструкциям.
+en SAMPLER - samplere - DJ-en bruker sampler for å mikse låter. ; СЕМПЛЕР - Диджей использует семплер для сведения треков.
+måles i ... - - Tid måles i sekunder og minutter. ; ИЗМЕРЯЕТСЯ В ... - Время измеряется в секундах и минутах.
+å FORETA - foretok - Vi foretok en grundig undersøkelse. ; СОВЕРШАТЬ / ПРОВОДИТЬ - Мы провели тщательное исследование.
+ei MÅLING - målinger - Måling av blodsukker er viktig for diabetikere. ; ИЗМЕРЕНИЕ - Измерение сахара в крови важно для диабетиков.
+viss PRESISJON - - Han jobber med viss presisjon i arbeidet. ; ОПРЕДЕЛЁННАЯ ТОЧНОСТЬ - Он работает с определённой точностью.
+å GJENSKAPE - gjenskapte - De prøvde å gjenskape ulykken. ; ВОССТАНАВЛИВАТЬ / ВОСПРОИЗВОДИТЬ - Они пытались воссоздать аварию.
+I og MED - - I og med regn blir turen avlyst. ; ПОСКОЛЬКУ - Поскольку идёт дождь, прогулка отменяется.
+å REGNE - regnet - Barna lærer å regne i skolen. ; СЧИТАТЬ - Дети учатся считать в школе.
+ei SAMPLING - samplinger - Sampling er viktig i digital lydproduksjon. ; ДИСКРЕТИЗАЦИЯ - Дискретизация важна в цифровой обработке звука.
+ei PRAKTISK MÅTE - praktiske måter - Dette er en praktisk måte å organisere filer på. ; ПРАКТИЧЕСКИЙ СПОСОБ - Это практический способ организовать файлы.
+å BEHANDLE - behandlet - Vi behandler søppel forsvarlig. ; ОБРАБАТЫВАТЬ - Мы обрабатываем мусор ответственно.
+til SLUTT - - Til slutt kom vi frem til konklusjonen. ; В КОНЦЕ - В конце мы пришли к выводу.
+å FÅ UT - fikk ut - Jeg fikk ut alle detaljene fra intervjuet. ; ПОЛУЧАТЬ - Я получил все детали из интервью.
+... er mye brukt - - Streaming er mye brukt i Norge. ; ... МНОГО ИСПОЛЬЗУЕТСЯ - Стриминг много используется в Норвегии.
+en DIGITALISERING - digitaliseringer - Digitalisering av offentlige tjenester går sakte. ; ЦИФРОВИЗАЦИЯ - Цифровизация государственных услуг идёт медленно.
+tallverdier - tallverdier - Vi analyserer tallverdier fra målingene. ; ЧИСЛОВЫЕ ЗНАЧЕНИЯ - Мы анализируем числовые значения из измерений.
+hver ENKELT - - Jeg sjekker hver enkelt fil før upload. ; КАЖДЫЙ ОТДЕЛЬНО - Я проверяю каждый отдельный файл перед загрузкой.
+ei HASTIGHET - hastigheter - Hastighet på internett varierer. ; СКОРОСТЬ - Скорость интернета варьируется.
+å BYGGE UT - bygde ut - De bygde ut veien i fjor. ; РАСШИРЯТЬ - Они расширили дорогу в прошлом году.
+i STØRSTEDELEN AV NORGE. - - Denne butikken finnes i størstedelen av Norge. ; В БОЛЬШЕЙ ЧАСТИ НОРВЕГИИ - Этот магазин есть в большей части Норвегии.
+ei TILLEGGSINFORMASJON - tilleggsinformasjoner - Les mer i tilleggsinformasjon nederst. ; ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ - Читайте дополнительную информацию внизу.
+en OVERSIKT - oversikter - Få en oversikt over alle funksjoner. ; ОБЗОР - Получите обзор всех функций.
+forholdsvis - forholdsvis - Kostnaden er forholdsvis lav. ; ОТНОСИТЕЛЬНО - Стоимость относительно низкая.
+komprimerings-teknologien - komprimerings-teknologier - Komprimerings-teknologien sparer plass. ; ТЕХНОЛОГИЯ СЖАТИЯ - Технология сжатия экономит место.
+å FØRE TIL - førte til - Forsinkelser førte til misnøye. ; ПРИВОДИТЬ К - Задержки привели к недовольству.
+oppdatert - oppdaterte - Listen er oppdatert per i dag. ; ОБНОВЛЁННЫЙ - Список обновлён на сегодня.
+å STRØMME - strømmet - Netflix lar oss strømme filmer. ; ТРАНСЛИРОВАТЬ (ПОТОКОМ) - Netflix позволяет транслировать фильмы.
+via - via - Send filen via e-post. ; ЧЕРЕЗ - Отправь файл по электронной почте.
+ei INTERNETTFORBINDELSE - internettforbindelser - Internettforbindelse er treg i regn. ; ИНТЕРНЕТ-СОЕДИНЕНИЕ - Интернет-соединение медленное в дождь.
+en MOTTAKER - mottakere - Sender og mottaker må synkroniseres. ; ПРИЁМНИК - Передатчик и приёмник должны синхронизироваться.
+i TILLEGG - - I tillegg til dette finnes flere alternativer. ; В ДОПОЛНЕНИЕ - В дополнение к этому есть другие варианты.
+Seinere - seinere - Vi kan diskutere dette seinere. ; ПОЗЖЕ - Можем обсудить это позже.
+et FOTOAPPARAT - fotoapparater - Jeg kjøpte et fotoapparat til ferien. ; ФОТОАППАРАТ - Я купил фотоаппарат к отпуску.
+å LAGRE BILDENE - lagret bildene - Kameraet lagrer bildene på kortet. ; СОХРАНЯТЬ КАРТИНКИ - Камера сохраняет картинки на карте.
+som ble brukt på... - - Verktøyet som ble brukt på prosjektet. ; КОТОРЫЙ ИСПОЛЬЗОВАЛСЯ НА ... - Инструмент, который использовался на проекте.
+De fleste digitale kameraer bruker i dag - - De fleste digitale kameraer bruker i dag SD-kort. ; БОЛЬШИНСТВО ЦИФРОВЫХ КАМЕР СЕГОДНЯ ИСПОЛЬЗУЮТ - Большинство цифровых камер сегодня используют SD-карты.
+en BRIKKE - brikker - Brikke i telefonen er ødelagt. ; ЧИП / ПЛАТКА - Плата в телефоне сломана.
+lysfølsomme - lysfølsomme - Sensorene er lysfølsomme. ; СВЕТОЧУВСТВИТЕЛЬНЫЕ - Датчики светочувствительные.
+en ELEKTRISK SPENNING - elektriske spenninger - Elektrisk spenning driver motoren. ; ЭЛЕКТРИЧЕСКОЕ НАПРЯЖЕНИЕ - Электрическое напряжение приводит мотор в действие.
+styrken på lyset - - Styrken på lyset måles i lux. ; ИНТЕНСИВНОСТЬ СВЕТА - Интенсивность света измеряется в люксах.
+SPENNING - spenning - Spenning i kretsen er for høy. ; НАПРЯЖЕНИЕ - Напряжение в цепи слишком высокое.
+som kan lagres i et minne. - - Informasjonen som kan lagres i et minne. ; КОТОРАЯ МОЖЕТ БЫТЬ СОХРАНЕНА В ПАМЯТИ - Информация, которая может быть сохранена в памяти.
+å SKILLE FORSKJELLIGE FARGE - skilte forskjellige farger - Øyet kan skille forskjellige farger. ; РАЗЛИЧАТЬ РАЗНЫЕ ЦВЕТА - Глаз может различать разные цвета.
+Ved hjelp av - - Ved hjelp av verktøy løste vi oppgaven. ; С ПОМОЩЬЮ - С помощью инструментов мы решили задачу.
+et FINURLIG SYSTEM - finurlige systemer - Et finurlig system styrer kameraet. ; ИЗОБРЕТАТЕЛЬНАЯ СИСТЕМА - Изобретательная система управляет камерой.
+å OPPGIS - oppgitt - Svaret oppgis i prosent. ; УКАЗЫВАТЬСЯ - Ответ указывается в процентах.
+et FLASHMINNE - flashminner - Flashminne i telefonen er fullt. ; ФЛЕШ-ПАМЯТЬ - Флеш-память в телефоне полная.
+i motsetning til ... - - I motsetning til USB er flashminne raskere. ; В ОТЛИЧИЕ ОТ ... - В отличие от USB флеш-память быстрее.
+å HA DEN EGENSKAPEN AT - hadde den egenskapen at - Materialet har den egenskapen at det krymper. ; ИМЕТЬ СВОЙСТВО, ЧТО - Материал имеет свойство, что он сжимается.
+uten at det tilføres strøm - - Data beholdes uten at det tilføres strøm. ; БЕЗ ПОДАЧИ ЭЛЕКТРИЧЕСТВА - Данные сохраняются без подачи электричества.
+å TA UT - tok ut - Ta ut minnekortet forsiktig. ; ВЫНИМАТЬ - Вынь карту памяти осторожно.
+uten at bildene blir borte - - Kortet kan fjernes uten at bildene blir borte. ; БЕЗ ТОГО ЧТОБЫ КАРТИНКИ ПРОПАЛИ - Карту можно вынуть без потери картинок.
+en BRUKBAR - brukbare - Dette gir en brukbar løsning for alle. ; ПРИГОДНЫЙ - Это даёт пригодное решение для всех.
