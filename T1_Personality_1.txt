@@ -1,0 +1,150 @@
+en NAVN - navn - Mitt fulle navn er Gleb Ivanov. ; ИМЯ - Моё полное имя Глеб Иванов.
+et ETTERNAVN - etternavn - Etternavnet mitt er Ivanov. ; ФАМИЛИЯ - Моя фамилия Иванов.
+et FORNAVN - fornavn - Fornavnet mitt er Gleb. ; ИМЯ - Моё имя Глеб.
+et MELLOMNAVN - mellomnavn - Han har et mellomnavn fra farfaren. ; ОТЧЕСТВО - У него отчество от деда по отцу.
+et KALLENAVN - kallenavn - Kallenavnet hans er Glebke. ; ПРОЗВИЩЕ - Его прозвище Глебке.
+jeg HET ER - het - Jeg heter Gleb og bor i Oslo. ; МЕНЯ ЗОВУТ - Меня зовут Глеб, живу в Осло.
+hva HET ER DU - het - Hva heter du? — Jeg heter Maria. ; КАК ТЕБЯ ЗОВУТ - Как тебя зовут? — Меня зовут Мария.
+alder - alder - Hva er alderen din? Jeg er 23. ; ВОЗРАСТ - Сколько тебе лет? Мне 23.
+år GAM MEL - år gamle - Hun er tjuefem år gammel. ; ЛЕТ - Ей двадцать пять лет.
+fødselsdag - fødselsdager - Gratulerer med fødselsdagen din! ; ДАТА РОЖДЕНИЯ - Поздравляю с днём рождения!
+fødselsdato - fødselsdatoer - Fødselsdato står på passet. ; ДАТА РОЖДЕНИЯ - Дата рождения указана в паспорте.
+fødselsnummer - fødselsnumre - Fødselsnummer brukes til registrering. ; НОМЕР РОЖДЕНИЯ - Номер рождения используется для регистрации.
+personnummer - personnumre - Personnummer er hemmelig informasjon. ; ЛИЧНЫЙ НОМЕР - Личный номер — конфиденциальная информация.
+nasjonalitet - nasjonaliteter - Nasjonaliteten min er russisk. ; НАЦИОНАЛЬНОСТЬ - Моя национальность русская.
+norsk - norske - Jeg lærer norsk hver dag. ; НОРВЕЖСКИЙ - Я учу норвежский каждый день.
+russisk - russiske - Russisk mat er annerledes enn norsk. ; РУССКИЙ - Русская еда отличается от норвежской.
+øst-europeisk - øst-europeiske - Øst-europeisk kultur er mangfoldig. ; ВОСТОЧНОЕВРОПЕЙСКИЙ - Восточноевропейская культура разнообразна.
+å BOR I - bodde i - Jeg bor i Oslo sentrum. ; ЖИВУ В - Я живу в центре Осло.
+adresse - adresser - Adressen min er hemmelig. ; АДРЕС - Мой адрес секретный.
+gateadresse - gateadresser - Gateadresse skrives med husnummer. ; УЛИЧНЫЙ АДРЕС - Уличный адрес пишется с номером дома.
+husnummer - husnumre - Husnummer 23A er inngangen. ; НОМЕР ДОМА - Номер дома 23A — вход.
+postnummer - postnumre - Postnummer 0354 er Oslo. ; ПОЧТОВЫЙ ИНДЕКС - Почтовый индекс 0354 — Осло.
+poststed - poststeder - Poststed er bynavnet. ; ПОЧТОВОЕ ОТДЕЛЕНИЕ - Почтовое отделение — название города.
+bygd - bygder - Hun kommer fra en liten bygd. ; ДЕРЕВНЯ - Она из маленькой деревни.
+landsdel - landsdeler - Østlandet er min landsdel. ; РЕГИОН - Востland — мой регион.
+land - land - Norge er et vakkert land. ; СТРАНА - Норвегия — красивая страна.
+Norge - Norge - Norge har vakre fjorder. ; НОРВЕГИЯ - В Норвегии красивые фьорды.
+Oslo - Oslo - Oslo er Norges hovedstad. ; ОСЛО - Осло — столица Норвегии.
+hjemmeadresse - hjemmeadresser - Hjemmeadresse registreres hos legen. ; ДОМАШНИЙ АДРЕС - Домашний адрес регистрируется у врача.
+midlertidig adresse - midlertidige adresser - Midlertidig adresse under ferie. ; ВРЕМЕННЫЙ АДРЕС - Временный адрес во время отпуска.
+telefonnummer - telefonnumre - Telefonnummer deles med venner. ; НОМЕР ТЕЛЕФОНА - Номер телефона делится с друзьями.
+mobilnummer - mobilnumre - Mobilnummer er alltid på. ; НОМЕР МОБИЛЬНОГО - Номер мобильного всегда включён.
+fasttelefon - fasttelefoner - Fasttelefon brukes sjelden nå. ; ДОМАШНИЙ ТЕЛЕФОН - Домашний телефон редко используется сейчас.
+ring MEG - ring meg - Ring meg når du kommer! ; ПОЗВОНИ МНЕ - Позвони мне, когда приедешь!
+e-postadresse - e-postadresser - E-postadresse for jobbkontakt. ; АДРЕС ЭЛЕКТРОННОЙ ПОЧТЫ - Адрес электронной почты для рабочих контактов.
+e-post - e-poster - Send e-post til meg nå. ; ЭЛЕКТРОННАЯ ПОЧТА - Отправь мне электронное письмо сейчас.
+@ - - E-post ender alltid med @. ; СОБАЧКА - Адрес почты всегда заканчивается @.
+punktum - punktum - Punktum mellom domene og land. ; ТОЧКА - Точка между доменом и страной.
+brukernavn - brukernavn - Brukernavn for innlogging. ; ИМЯ ПОЛЬЗОВАТЕЛЯ - Имя пользователя для входа.
+passord - passord - Passord må være komplekst. ; ПАРОЛЬ - Пароль должен быть сложным.
+innlogging - innlogginger - Innlogging krever brukernavn og passord. ; ВХОД В СИСТЕМУ - Вход требует имени пользователя и пароля.
+sivilstand - sivilstader - Sivilstand står i folkeregisteret. ; СЕМЕЙНОЕ ПОЛОЖЕНИЕ - Семейное положение в реестре населения.
+ugift - ugifte - Jeg er ugift og bor alene. ; НЕЖЕНАТЫЙ / НЕЗАМУЖЕМ - Я не женат и живу один.
+gift - gifte - De er gift siden 2015. ; ЖЕНАТЫЙ / ЗАМУЖЕМ - Они женаты с 2015 года.
+separert - separerte - Paret er separert men ikke skilt. ; РАЗДЁЛЁННЫЕ - Пара в разлуке, но не разведены.
+skilt - skilte - De er skilt etter 10 år. ; РАЗВЕДЁННЫЕ - Они развелись после 10 лет.
+enslig - enslige - Hun lever enslig etter skilsmissen. ; ОДИНОКИЙ - Она живёт одна после развода.
+partner - partnere - Kjæresten min er min partner. ; ПАРТНЁР - Моя девушка — мой партнёр.
+ektefelle - ektefeller - Ektefelle er lovlig gift. ; СОПРУГ - Супруг — законно женатый.
+barn - barn - Jeg har to barn på 5 og 7. ; ДЕТИ - У меня двое детей 5 и 7 лет.
+antall BARN - antall barn - Antall barn i familien er tre. ; КОЛИЧЕСТВО ДЕТЕЙ - Количество детей в семье три.
+kjønn - kjønn - Kjønn er mann eller kvinne. ; ПОЛ - Пол — мужчина или женщина.
+en MANN - menn - Han er en høflig mann. ; МУЖЧИНА - Он вежливый мужчина.
+en KVINNE - kvinner - Kvinnen jobber som lærer. ; ЖЕНЩИНА - Женщина работает учителем.
+høyde - høyder - Høyden min er 180 cm. ; РОСТ - Мой рост 180 см.
+vekt - vekter - Vekten min er 80 kilo. ; ВЕС - Мой вес 80 кг.
+hårfarge - hårfarger - Hårfarge er brun hos meg. ; ЦВЕТ ВОЛОС - Цвет моих волос коричневый.
+øyenfarge - øyenfarger - Øyenfarge blå matcher håret. ; ЦВЕТ ГЛАЗ - Цвет глаз голубой подходит к волосам.
+kroppsbygning - kroppsbygninger - Kroppsbygning atletisk fra trening. ; ТЕЛЕОСЛОЖЕНИЕ - Телосложение атлетическое от тренировок.
+briller - briller - Jeg bruker briller til lesing. ; ОЧКИ - Я ношу очки для чтения.
+linse - linser - Kontaktlinse er praktisk. ; КОНТАКТНАЯ ЛИНЗА - Контактная линза удобна.
+tatovering - tatoveringer - Tatovering på armen er kunst. ; ТАТУИРОВКА - Татуировка на руке — искусство.
+piercing - piercings - Nese piercing ser kult ut. ; ПИРСИНГ - Пирсинг в носу выглядит круто.
+arr - arr - Lite arr etter operasjon. ; ШРАМ - Маленький шрам после операции.
+fødselsmerke - fødselsmerker - Fødselsmerke på skulderen. ; РОЖДЕСТВЕННОЕ ПЯТНО - Родимое пятно на плече.
+mor - mødre - Mor ringer hver søndag. ; МАМА - Мама звонит каждое воскресенье.
+ei MOR - mødre - Ei mor passer alltid på. ; МАМА - Мама всегда заботится.
+far - fedre - Far lærer meg norsk. ; ПАПА - Папа учит меня норвежскому.
+en FAR - fedre - En far er stolt av barna. ; ПАПА - Папа гордится детьми.
+bursdag - bursdager - Bursdag er 15. mai. ; ДЕНЬ РОЖДЕНИЯ - День рождения 15 мая.
+bursdagsgratulasjon - bursdagsgratulasjoner - Bursdagsgratulasjon via melding. ; ПОЗДРАВЛЕНИЕ С ДНЁМ РОЖДЕНИЯ - Поздравление с днём рождения по сообщению.
+gratulerer - gratulerer - Gratulerer med dagen din! ; ПОЗДРАВЛЯЮ - Поздравляю с твоим днём!
+bursdagsfeiring - bursdagsfeiringer - Bursdagsfeiring med kake og gaver. ; ПРАЗДНОВАНИЕ ДНЯ РОЖДЕНИЯ - Празднование дня рождения с тортом и подарками.
+bursdagskake - bursdagskaker - Bursdagskake med lys på. ; ТОРТ НА ДЕНЬ РОЖДЕНИЯ - Торт на день рождения со свечами.
+gaver - gaver - Gaver pakkes inn pent. ; ПОДАРКИ - Подарки красиво упакованы.
+ønskeliste - ønskelister - Ønskeliste til bursdag hjelper. ; СПИСОК ЖЕЛАЕМЫХ ПОДАРКОВ - Список желаний на день рождения помогает.
+identitetskort - identitetskort - Identitetskort sjekkes ved grensen. ; УДОСТОВЕРЕНИЕ ЛИЧНОСТИ - Удостоверение личности проверяют на границе.
+pass - pass - Pass trengs for reise. ; ПАСПОРТ - Паспорт нужен для поездки.
+førerkort - førerkort - Førerkort klasse B for bil. ; ВОДИТЕЛЬСКИЕ ПРАВА - Водительские права категории B для машины.
+bankkort - bankkort - Bankkort betaler i butikk. ; БАНКОВСКАЯ КАРТА - Банковская карта оплачивает в магазине.
+id-kort - id-kort - ID-kort for alderskontroll. ; УДОСТОВЕРЕНИЕ - Удостоверение для проверки возраста.
+signatur - signaturer - Signatur på sjekk og dokument. ; ПОДПИСЬ - Подпись на чеке и документе.
+håndskrift - håndskrifter - Håndskrift er unik som fingeravtrykk. ; ПОЧЕРК - Почерк уникален как отпечаток пальца.
+bilde - bilder - Passbilde må være nystatt. ; ФОТО - Фото в паспорт должно быть свежим.
+portrettfoto - portrettfotoer - Portrettfoto til CV. ; ПОРТРЕТНОЕ ФОТО - Портретное фото в резюме.
+profilbilde - profilbilder - Profilsbilde på Facebook smiler. ; АВАТАР - Аватар на Facebook улыбается.
+selvportrett - selvportretter - Selvportrett malt av Van Gogh. ; СЕЛЬФИ - Селфи нарисованное Ван Гогом.
+bakgrunn - bakgrunner - Bakgrunn for bildet er blå himmel. ; ФОН - Фон изображения — голубое небо.
+opprinnelse - opprinnelser - Opprinnelse fra Øst-Europa. ; ПРОИСХОЖДЕНИЕ - Происхождение из Восточной Европы.
+hjemland - hjemland - Hjemlandet mitt er Russland. ; РОДИНА - Моя родина Россия.
+flyktning - flyktninger - Flyktning trenger beskyttelse. ; БЕЖЕНЕЦ - Беженец нуждается в защите.
+innvandrer - innvandrere - Innvandrer lærer norsk raskt. ; ИММИГРАНТ - Иммигрант быстро учится норвежскому.
+statsborger - statsborgere - Statsborger har stemmerett. ; ГРАЖДАНИН - Гражданин имеет право голоса.
+oppholdstillatelse - oppholdstillatelser - Oppholdstillatelse for ett år. ; ВИДА НА ЖИТЕЛЬСТВО - Вид на жительство на год.
+visum - visa - Visum trengs for kort besøk. ; ВИЗА - Виза нужна для короткого визита.
+registrert - registrerte - Alle er registrert i folkeregisteret. ; ЗАРЕГИСТРИРОВАННЫЙ - Все зарегистрированы в реестре населения.
+folkeregisteret - folkeregister - Folkeregisteret har alle adresser. ; НАСЕЛЕНЧЕСКИЙ РЕЕСТР - Реестр населения содержит все адреса.
+personopplysninger - personopplysninger - Personopplysninger beskyttes av lov. ; ЛИЧНЫЕ ДАННЫЕ - Личные данные защищены законом.
+skjema - skjemaer - Fyll ut skjemaet korrekt. ; ФОРМА - Заполни форму правильно.
+søknad - søknader - Søknad om opphold sendes online. ; ЗАЯВЛЕНИЕ - Заявление на пребывание отправляется онлайн.
+å UTFYLLE - utfylte - Utfylle skjema tar tid. ; ЗАПОЛНЯТЬ - Заполнение формы занимает время.
+underskrift - underskrifter - Underskrift bekrefter avtalen. ; ПОДПИСЬ - Подпись подтверждает договор.
+bekreftelse - bekreftelser - Bekreftelse kommer per e-post. ; ПОДТВЕРЖДЕНИЕ - Подтверждение приходит по почте.
+personvern - personvern - Personvern er viktig online. ; ЗАЩИТА ДАННЫХ - Защита данных важна онлайн.
+taushetsplikt - taushetsplikter - Taushetsplikt gjelder for leger. ; ОБЯЗАТЕЛЬСТВО МОЛЧАТЬ - Обязательство молчать касается врачей.
+samtykke - samtykker - Samtykke til deling av data. ; СОГЛАСИЕ - Согласие на обмен данными.
+tillatelse - tillatelser - Tillatelse til opphold gis. ; РАЗРЕШЕНИЕ - Разрешение на пребывание даётся.
+oppdatering - oppdateringer - Oppdatering av adresse kreves. ; ОБНОВЛЕНИЕ - Обновление адреса обязательно.
+endring - endringer - Endring av navn tar tid. ; ИЗМЕНЕНИЕ - Изменение имени занимает время.
+feilretting - feilrettinger - Feilretting av data gjøres raskt. ; ИСПРАВЛЕНИЕ ОШИБОК - Исправление ошибок делается быстро.
+sletting - slettinger - Sletting av gamle data. ; УДАЛЕНИЕ - Удаление старых данных.
+lagring - lagringer - Lagring av personopplysninger er trygt. ; ХРАНЕНИЕ - Хранение персональных данных безопасно.
+deling - delinger - Deling av kontaktinfo med tillatelse. ; РАЗДЕЛЕНИЕ - Обмен контактной информацией с разрешения.
+mottaker - mottakere - Mottaker får brevet ditt. ; ПОЛУЧАТЕЛЬ - Получатель получает твоё письмо.
+avsender - avsendere - Avsender står på konvolutten. ; ОТПРАВИТЕЛЬ - Отправитель указан на конверте.
+kontaktperson - kontaktpersoner - Kontaktperson ved nød er mor. ; КОНТАКТНОЕ ЛИЦО - Контактное лицо в экстренном случае — мама.
+nøkkelperson - nøkkelpersoner - Nøkkelperson i prosjektet er sjefen. ; КЛЮЧЕВОЕ ЛИЦО - Ключевое лицо в проекте — начальник.
+referanse - referanser - Referanse fra tidligere arbeidsgiver. ; РЕКОМЕНДАЦИЯ - Рекомендация от предыдущего работодателя.
+bekreftelsesbrev - bekreftelsesbrev - Bekreftelsesbrev om mottatt søknad. ; ПИСЬМО-ПОДТВЕРЖДЕНИЕ - Письмо-подтверждение о полученной заявке.
+velkomstbrev - velkomstbrev - Velkomstbrev fra Folke registeret. ; ПИСЬМО-ПРИВЕТСТВИЕ - Письмо-приветствие от Реестра населения.
+invitasjon - invitasjoner - Invitasjon til kurs starter. ; ПРИГЛАШЕНИЕ - Приглашение на курс.
+presentasjon - presentasjoner - Presentasjon av ny elev. ; ПРЕЗЕНТАЦИЯ - Презентация нового ученика.
+selvintroduksjon - selvintroduksjoner - Selvintroduksjon på første dag. ; САМОПРЕДСТАВЛЕНИЕ - Самопредставление в первый день.
+kort om MEG - - Kort om meg: 23 år, fra Russland. ; НЕМНОГО ОБО МНЕ - Немного обо мне: 23 года, из России.
+bakgrunnshistorie - bakgrunnshistorier - Bakgrunnshistorie forklares kort. ; ИСТОРИЯ ФОНА - История происхождения объясняется кратко.
+nåværende situasjon - nåværende situasjoner - Nåværende situasjon er læring av norsk. ; ТЕКУЩАЯ СИТУАЦИЯ - Текущая ситуация — изучение норвежского.
+fremtidsplaner - fremtidsplaner - Fremtidsplaner inkluderer jobb i Norge. ; ПЛАНЫ НА БУДУЩЕЕ - Планы на будущее включают работу в Норвегии.
+mål - mål - Mitt mål er flytende norsk. ; ЦЕЛЬ - Моя цель — свободный норвежский.
+ambisjoner - ambisjoner - Ambisjoner om karriere i IT. ; АМБИЦИИ - Амбиции в карьере IT.
+interesser - interesser - Interesser er trening og språk. ; ИНТЕРЕСЫ - Интересы — тренировки и языки.
+hobbyer - hobbyer - Hobbyer inkluderer lesing og gaming. ; ХОББИ - Хобби включают чтение и игры.
+fritidsaktiviteter - fritidsaktiviteter - Fritidsaktiviteter er gym og turer. ; СВОБОДНОЕ ВРЕМЯ - Занятия в свободное время — зал и прогулки.
+dagligliv - dagligliv - Dagligliv i Oslo er hektisk. ; ПОВСЕДНЕВНАЯ ЖИЗНЬ - Повседневная жизнь в Осло суетливая.
+hverdag - hverdager - Hverdag består av jobb og trening. ; БУДНИ - Будни состоят из работы и тренировок.
+livssituasjon - livssituasjoner - Livssituasjon endres med jobb. ; ЖИЗНЕННАЯ СИТУАЦИЯ - Жизненная ситуация меняется с работой.
+bosetting - bosettinger - Bosetting i Norge siden 2024. ; ПОСЕЛЕНИЕ - Поселение в Норвегии с 2024.
+tilflytting - tilflyttinger - Tilflytting til Oslo var spennende. ; ПЕРЕЕЗД - Переезд в Осло был волнующим.
+bosatt - bosatte - Bosatt i Groruddalen i 2 år. ; ПОСЕЛЁННЫЙ - Поселённый в Гроруддален 2 года.
+midlertidig - midlertidige - Midlertidig jobb mens lærer norsk. ; ВРЕМЕННЫЙ - Временная работа пока учу норвежский.
+permanent - permanente - Permanent opphold er målet. ; ПОСТОЯННЫЙ - Постоянное пребывание — цель.
+leiebolig - leieboliger - Leiebolig i sentrum er dyrt. ; АРЕНДОВАННАЯ КВАРТИРА - Арендованная квартира в центре дорогая.
+eid bolig - eide boliger - Eid bolig er langsiktig mål. ; СОБСТВЕННАЯ КВАРТИРА - Собственная квартира — долгосрочная цель.
+husstand - husstader - Husstand består av to personer. ; СЕМЕЙСТВО - Семья состоит из двух человек.
+husstandsmedlem - husstandsmedlemmer - Husstandsmedlem er ektefelle. ; ЧЛЕН СЕМЕЙСТВА - Член семьи — супруг.
+aleneboer - aleneboere - Aleneboer nyter friheten. ; ОДИНОЧКА - Одинокий наслаждается свободой.
+sameie - sameier - Sameie eier leiligheten sammen. ; КООПЕРАТИВ - Кооператив владеет квартирой совместно.
+nabo - naboer - God nabo hjelper alltid. ; СОСЕД - Хороший сосед всегда помогает.
+naboskap - naboskaper - Naboskap er viktig i borettslag. ; СОСЕДСТВО - Соседство важно в кооперативе.
+lokalmiljø - lokalmiljøer - Lokalmiljø i Oslo er mangfoldig. ; МЕСТНАЯ СРЕДА - Местная среда в Осло разнообразна.
+personlig nummer - personlige numre - Personlig nummer deles kun med tillit. ; ЛИЧНЫЙ НОМЕР - Личный номер делится только с доверенными.
