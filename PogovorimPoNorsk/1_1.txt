@@ -3,9 +3,9 @@
 близкие pl ; pårørende
 близкие ребёнка ; barnets pårørende
 поколение ; generasjon
-потомок, потомки ; etterkommer, ætling; etterkommere, etterslekt
+потомок, потомки ; etterkommer
 прародитель ; stamfar
-предки ; forfedre; aner; opphav n aytm.
+предки ; forfedre
 родственник ; slektning
 родные ; slektninger, familien
 род ; slekt; ætt
@@ -59,7 +59,7 @@
 среднего возраста ; middelaldrende
 старая карга ; hurpe
 старец ; olding
-старик ; gammel mann; den gamle (gammelt), avfeldig krek
+старик ; gammel mann
 дряхлый старик ; gamling
 старикан ; gammel knark, (fjøs)nisse
 старикашка ; gamla, kjærring
@@ -67,4 +67,4 @@
 старушка ; gammel knark, stabeis
 старый хрыч ; gammel mann
 тётка ; pusling
-юнец ; yngling;
+юнец ; yngling
