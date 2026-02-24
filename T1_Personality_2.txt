@@ -1,0 +1,199 @@
+en MORGENKAFFE - morgenkaffer - Jeg drikker alltid morgenkaffe før jobb. ; УТРЕННИЙ КОФЕ - Я всегда пью утренний кофе перед работой.
+ei FROKOSTBLANDING - frokostblandinger - Frokostblanding er rask og næringsrik. ; ХЛОПЬЯ НА ЗАВТРАК - Хлопья на завтрак быстрые и питательные.
+ei HAVREGRØT - havregrøter - Havregrøt er varm og mettende. ; ОВСЯНАЯ КАША - Овсяная каша тёплая и сытная.
+en BRØDSKIVE - brødskiver - Jeg smører på ost på brødskiven. ; КУСОК ХЛЕБА - Я намазываю сыр на кусок хлеба.
+et SMØR - smør - Smør på brød er klassisk. ; МАСЛО - Масло на хлебе — классика.
+en OST - oster - Ost er min favoritt på brødskiven. ; СЫР - Сыр — мой любимый на бутерброде.
+en SKINKE - skinker - Skinke og ost er perfekt kombinasjon. ; ВЕТЧИНА - Ветчина и сыр — идеальное сочетание.
+et EGG - egg - Kokt egg til frokost er sunt. ; ЯЙЦО - Варёное яйцо на завтрак полезно.
+juice - juice - Juice til frokost gir energi. ; СОК - Сок на завтрак даёт энергию.
+en YOGHURT - yoghurter - Yoghurt med bær er deilig. ; ЙОГУРТ - Йогурт с ягодами вкусный.
+å TAR MED LUNS J - tok med lunsj - Jeg tar med lunsj til jobb hver dag. ; БЕРУ С СОБОЙ ОБЕД - Я беру обед с собой на работу каждый день.
+en SALAT - salater - Salat til lunsj er frisk og lett. ; САЛАТ - Салат на обед свежий и лёгкий.
+en SUPPE - supper - Suppe varmer på kalde dager. ; СЮП - Суп согревает в холодные дни.
+ei FISKESUPPE - fiskesupper - Fiskesuppe er typisk norsk. ; РЫБНЫЙ СЮП - Рыбный суп типично норвежский.
+ei KJØTTKAKER - kjøttkaker - Kjøttkaker med poteter er hjemmelaget. ; КУТЛЕТЫ - Котлеты с картошкой домашние.
+ei POTET - poteter - Kokte poteter passer til alt. ; КАРТОФЕЛИНА - Варёная картошка подходит ко всему.
+grønnsaker - grønnsaker - Grønnsaker er sunt til middag. ; ОВОЩИ - Овощи полезны к обеду.
+en GULROT - gulrøtter - Gulrot gir sødme i retten. ; МОРКОВЬ - Морковь даёт сладость блюду.
+brokkoli - brokkolier - Brokkoli er full av vitaminer. ; БРОККОЛИ - Брокколи полна витаминов.
+en TOMAT - tomater - Tomat gir farge til salaten. ; ПОМИДОР - Помидор даёт цвет салату.
+en AGURK - agurker - Agurk er frisk i salaten. ; ОГУРЕЦ - Огурец свежий в салате.
+ettermiddagskaffe - ettermiddagskafer - Ettermiddagskaffe gir ny energi. ; ПОСЛЕОБЕДЕННЫЙ КОФЕ - Послеобеденный кофе даёт новую энергию.
+en BOLLE - boller - Bolle til kaffen er koselig. ; БУЛОЧКА - Булочка к кофе уютная.
+en KAKE - kaker - Kake til ettermiddagskaffen er godt. ; ТОРТ - Торт к послеобеденному кофе вкусен.
+frukt - frukter - Frukt er sunn snacks. ; ФРУКТЫ - Фрукты — здоровая закуска.
+et EPLE - epler - Eple holder legen borte. ; ЯБЛОКО - Яблоко держит доктора подальше.
+en BANAN - bananer - Banan gir rask energi. ; БАНАН - Банан даёт быструю энергию.
+en APPELSIN - appelsiner - Appelsin er full av C-vitamin. ; АПЕЛЬСИН - Апельсин полон витамина C.
+bær - bær - Bær er sommerens godteri. ; ЯГОДЫ - Ягоды — летняя конфета.
+jordbær - jordbær - Jordbær med fløte er deilig. ; КЛУБНИКА - Клубника со сливками вкусная.
+blåbær - blåbær - Blåbær i yoghurt er sunt. ; ЧЕРНИКА - Черника в йогурте полезна.
+kveldste - kveldste - Kveldste hjelper meg å slappe av. ; ВЕЧЕРНИЙ ЧАЙ - Вечерний чай помогает расслабиться.
+urtete - urtete - Urtete er beroligende før sengetid. ; ТРАВЯНОЙ ЧАЙ - Травяной чай успокаивает перед сном.
+mineralvann - mineralvann - Mineralvann er friskende. ; МИНЕРАЛЬНАЯ ВОДА - Минеральная вода освежает.
+brus - brus - Brus til helgegrillen er hyggelig. ; ГАЗИРОВКА - Газировки к барбекю на выходных уютно.
+øl til helga - øl til helga - Øl til helga med venner. ; ПИВО НА ВЫХОДНЫЕ - Пиво на выходных с друзьями.
+vin til middag - vin til middag - Rødvin til middag er perfekt. ; ВИНО К ОБЕДУ - Красное вино к обеду идеально.
+en VANNFLASKE - vannflasker - Vannflaske er alltid med på trening. ; БУТЫЛКА С ВОДОЙ - Бутылка с водой всегда на тренировке.
+vannet - vannet - Vannet er kaldt og godt. ; ВОДА - Вода холодная и хорошая.
+en TRENINGSBAG - treningsbager - Treningsbag er pakket og klar. ; СУМКА ДЛЯ ТРЕНИРОВОК - Сумка для тренировок упакована и готова.
+et HÅNDLKE - håndklær - Håndkle tørker svetten etter trening. ; ПОЛОТЕНЦЕ - Полотенце вытирает пот после тренировки.
+en TRENINGSBUKSE - treningsbukser - Treningsbukse er behagelig å løpe i. ; ТРЕНИРОВОЧНЫЕ ШТАНЫ - Тренировочные штаны удобны для бега.
+en HETTEGENSER - hettegensere - Hetegenser holder varmen i gymmet. ; ХУДИ - Худи сохраняет тепло в зале.
+ei JOGGESKO - joggesko - Joggesko med god demping er viktig. ; КРОССОВКИ ДЛЯ БЕГА - Кроссовки с хорошей амортизацией важны.
+en LØPEBANE - løpebaner - Løpebane er perfekt for intervaller. ; БЕГОВАЯ ДОРОЖКА - Беговая дорожка идеальна для интервалов.
+en VEKTSTANG - vektstenger - Vektstang brukes til styrketrening. ; ШТАНГА - Штанга используется для силовых тренировок.
+hantler - hantler - Hantler for biceps og triceps. ; ГАНТЕЛИ - Гантели для бицепсов и трицепсов.
+benkpress - benkpresser - Benkpress bygger brystmuskulatur. ; ЖИМ ЛЕЖА - Жим лёжа развивает грудные мышцы.
+knebøy - knebøy - Knebøy styrker bena effektivt. ; ПРИСЕДАНИЯ - Приседания эффективно укрепляют ноги.
+markløft - markløft - Markløft er kongeøvelse. ; МЁРТВАЯ ТЯГА - Мёртвая тяга — королевское упражнение.
+armhevinger - armhevninger - Armhevinger trenes hver tirsdag. ; ОТЖИМАНИЯ - Отжимания тренируются каждый вторник.
+pull-ups - pull-ups - Pull-ups er vanskelig men effektivt. ; ПОДТЯГИВАНИЯ - Подтягивания сложны, но эффективны.
+planke - planker - Planke styrker kjernemuskulaturen. ; ПЛАНКА - Планка укрепляет мышцы кора.
+uttøying - uttøyinger - Uttøying etter trening forebygger skader. ; РАСТЯЖКА - Растяжка после тренировки предотвращает травмы.
+oppvarming - oppvarminger - God oppvarming forbereder kroppen. ; РАЗМИНКА - Хорошая разминка готовит тело.
+nedkjøling - nedkjølinger - Nedkjøling hjelper restitusjon. ; ЗАМИНКА - Заминка помогает восстановлению.
+puls - pulser - Puls over 160 er høyintensivt. ; ПУЛЬС - Пульс выше 160 — высокая интенсивность.
+hjerterytme - hjerterytmer - Hjerterytme måles med klokke. ; РИТМ СЕРДЦА - Ритм сердца измеряется часами.
+svette - svetten - Svette viser at du jobber hardt. ; ПОТ - Пот показывает, что ты работаешь усердно.
+dusj etterpå - dusjer etterpå - Dusj etterpå friske deg opp. ; ДУШ ПОСЛЕ - Душ после освежает.
+såpe - såper - Såpe til dusj og hender. ; МЫЛО - Мыло для душа и рук.
+sjampo - sjampoer - Sjampo for tørt hår anbefales. ; ШАМПУНЬ - Шампунь для сухих волос рекомендуется.
+balsam - balsamer - Balsam gir glans til håret. ; БАЛЬЗАМ - Бальзам придаёт блеск волосам.
+barbering - barberinger - Morgenbarbering er rutine. ; БРИТЬЁ - Утреннее бритьё — рутина.
+aftershave - aftershave - Aftershave kjøler og desinfiserer. ; ОДУШКОДУХИ - Одушко-духи охлаждают и дезинфицируют.
+deodorant - deodoranter - Deodorant holder deg frisk hele dagen. ; ДЕОДОРАНТ - Дезодорант сохраняет свежесть весь день.
+parfyme - parfymer - Litt parfyme før jobb. ; ПАРФЮМ - Немного парфюма перед работой.
+klær til jobb - klær til jobb - Klær til jobb må være pent. ; ОДЕЖДА НА РАБОТУ - Одежда на работу должна быть аккуратной.
+en SKJORTE - skjorter - Hvit skjorte passer til alt. ; РУБАШКА - Белая рубашка подходит ко всему.
+en BUKSE - bukser - Dressbukse til formelle møter. ; БРЮКИ - Деловые брюки на официальные встречи.
+en JAKKE - jakker - Vinterjakke holder varmen. ;КУРТКА - Зимняя куртка сохраняет тепло.
+sko - sko - Rene sko gir godt inntrykk. ; ТУФЛИ - Чистые туфли производят хорошее впечатление.
+sokker - sokker - Sorte sokker til dress. ; НОСКИ - Чёрные носки к костюму.
+et BELTE - belter - Belte holder buksen oppe. ; РЕМЕНЬ - Ремень держит брюки.
+et SLIPS - slips - Blått slips til grå dress. ; ГАЛСТУК - Синий галстук к серому костюму.
+en ULLGENSER - ullgensere - Ullgenser er varm på høst. ; ВОЛОКОЧИСТЫЙ СВИТЕР - Шерстяной свитер тёплый осенью.
+vante r - vanter - Vanter beskytter hendene mot kulde. ; ПЕРЧАТКИ - Перчатки защищают руки от холода.
+en LUE - luer - Ullue holder ørene varme. ; ШАПКА - Шерстяная шапка сохраняет тепло ушей.
+en SKJERF - skjerf - Skjerf rundt halsen mot vinden. ; ШАРФ - Шарф вокруг шеи от ветра.
+regnfrakk - regnfrakker - Regnfrakk holder deg tørr. ; ДОЖДЕВИК - Дождевик держит сухим.
+en PARAPLY - paraplyer - Paraply mot regnet på vei til jobb. ; ЗОНТИК - Зонт от дождя по дороге на работу.
+ullsokker - ullsokker - Ullsokker holder føttene varme. ; ШЁРСТЯНЫЕ НОСКИ - Шерстяные носки сохраняют тепло ног.
+termotrøye - termotrøyer - Termotrøye under genseren mot frost. ; ТЕРМОФУТБОЛКА - Термофутболка под свитер от мороза.
+lange bukser - lange bukser - Lange bukser mot kuldeben. ; ДЛИННЫЕ БРЮКИ - Длинные брюки от холодных ног.
+ullundertøy - ullundertøy - Ullundertøy er base mot vinterkulde. ; ШЁРСТЯНОЕ БЁЛЬЁ - Шерстяное бельё — основа от зимнего холода.
+en VARM JAKKE - varme jakker - Varm jakke er nødvendig i januar. ; ТЁПЛАЯ КУРТКА - Тёплая куртка необходима в январе.
+snøstøvler - snøstøvler - Snøstøvler for snø og is. ; СНОГОСМОТРЫ - Снегоходовы для снега и льда.
+ishakke - ishakker - Ishakke for isete veier. ; ЛЕДОЛОМА - Ледолом для обледенелых дорог.
+et TRANSPORTKORT - transportkort - Transportkort betaler alle turer. ; ТРАНСПОРТНАЯ КАРТА - Транспортная карта оплачивает все поездки.
+et MÅNEDSKORT - månedskort - Månedskort lønner seg mest. ; МЕСЯЧНЫЙ ПРОЕЗДНОЙ - Месячный проездной выгоднее всего.
+et DAGSPASS - dagspass - Dagspass for helgetur. ; СУТОЧНЫЙ ПРОЕЗДНОЙ - Суточный проездной на выходные.
+nattbuss - nattbusser - Nattbuss kjører til sentrum. ; НОЧНОЙ АВТОБУС - Ночной автобус едет в центр.
+ekspressbuss - ekspressbusser - Ekspressbuss til flyplassen. ; ЭКСПРЕСС-АВТОБУС - Экспресс-автобус на аэропорт.
+tog til Bergen - tog til Bergen - Tog til Bergen tar 7 timer. ; ПОЕЗД В БЕРГЕН - Поезд в Берген идёт 7 часов.
+ferge - ferger - Ferge til øyene seiler kl. 8. ; ПАРОМ - Паром на острова отходит в 8.
+en SYKKELSTI - sykkelstier - Sykkelsti langs fjorden er fin. ; ВЕЛОДОРОЖКА - Велодорожка вдоль фьорда красивая.
+sykkelparkering - sykkelparkeringer - Sykkelparkering ved stasjonen. ; ВЕЛОПАРКОВКА - Велопарковка у станции.
+lås - låser - Bruk lås på sykkelen alltid. ; ЗАМОК - Всегда используй замок на велосипеде.
+sykkelhjelm - sykkelhjelmer - Sykkelhjelm er lovpålagt. ; ВЕЛОШЛЕМ - Велошлем обязателен по закону.
+en GÅTUR - gåturer - Morgen gåtur i skogen frisker opp. ; ПРОГУЛКА - Утренняя прогулка в лесу освежает.
+en SPASERTUR - spaserturer - Spasertur langs elva er rolig. ; ПРОМНАДА - Прогулка вдоль реки спокойная.
+skogsti - skogstier - Skogsti leder til vannet. ; ЛЕСОНАЯ ТРОПА - Лесная тропа ведёт к воде.
+elvebredd - elvebredder - Tur langs elvebredd er fin. ; БЕРЕГ РЕКИ - Прогулка по берегу реки приятна.
+en PARKBENK - parkbenker - Parkbenk for rast i solen. ; СКАМЕЙКА В ПАРКЕ - Скамейка в парке для отдыха на солнце.
+natursti - naturstier - Natursti med info om planter. ; ПРИРОДНАЯ ТРОПА - Природная тропа с инфо о растениях.
+fuglekikking - fuglekikking - Fuglekikking med kikkert er spennende. ; НАБЛЮДЕНИЕ ЗА ПТИЦАМИ - Наблюдение за птицами с биноклем интересно.
+soppsanking - soppsanking - Soppsanking i skogen høsttid. ; СОБИРАНИЕ ГРИБОВ - Сбор грибов в лесу осенью.
+bærplukking - bærplukking - Bærplukking med familien er kos. ; СОБИРАНИЕ ЯГОД - Сбор ягод с семьёй уютно.
+grillkveld - grillkvelder - Grillkveld med naboer i hagen. ; ВЕЧЕР У ГРИЛЯ - Вечер у гриля с соседями в саду.
+båltenning - båltenninger - Båltenning på stranda om kvelden. ; РАЗВЕДЕНИЕ КОСТРА - Разведение костра на пляже вечером.
+teltcamping - teltcamping - Teltcamping i fjellet sommerstid. ; КЕМПИНГ В ПАЛАТКЕ - Кемпинг в палатке в горах летом.
+hytteferie - hytteferier - Hytteferie ved sjøen er avslappende. ; ОТДЫХ В ДОМЕШКЕ - Отдых в домике у моря расслабляет.
+fjellsti - fjellstier - Fjellsti opp til utsiktspunktet. ; ГОРНАЯ ТРОПА - Горная тропа к смотровой площадке.
+topptur - toppturer - Topptur gir fantastisk utsikt. ; ПОХОД НА ВЕРШИНУ - Поход на вершину даёт фантастический вид.
+skitur - skiturer - Skitur i preparerte løyper. ; ЛЫЖНАЯ ПРОГУЛКА - Лыжная прогулка по подготовленным трассам.
+snowboard - snowboards - Snowboard i bakken er moro. ; СНОУБОРД - Сноуборд на склоне весело.
+langrenn - langrenn - Langrenn i skogen er klassisk. ; БЕГОВЫЕ ЛЫЖИ - Беговые лыжи в лесу классика.
+skøyteis - skøyteiser - Skøyteis på frozen tjern. ; КАТОК - Катание на коньках на замёрзшем озере.
+svømmebasseng - svømmebasseng - Svømmebasseng er 25 meter langt. ; ПЛАВАЛЬНЫЙ БАССЕЙН - Плавательный бассейн 25 метров длиной.
+badestrand - badestrander - Badestrand er full av folk sommerstid. ; ПЛЯЖ ДЛЯ КУПАНИЯ - Пляж для купания полон людей летом.
+fjordbad - fjordbad - Fjordbad er kaldt men oppkvikkende. ; КУПАНИЕ В ФЬОРДЕ - Купание в фьорде холодное, но бодрящее.
+isfiske - isfiske - Isfiske på frossen fjord. ; ЛЕДЯНАЯ РЫБАЛКА - Ледяная рыбалка на замёрзшем фьорде.
+kajakkpadling - kajakkpadlinger - Kajakkpadling i rolig fjord. ; ГРЕБЛЯ НА КАЯКЕ - Гребля на каяке в спокойном фьорде.
+seilbåt - seilbåter - Seilbåt på blåfjorden sommerstid. ; ПАРУСНАЯ ЛОДКА - Парусная лодка на синем фьорде летом.
+fisking - fiskinger - Fisking fra brygga er avslappende. ; РЫБАЛКА - Рыбалка с пирса расслабляет.
+fluefiske - fluefiske - Fluefiske i elva krever teknikk. ; МУШИНКАЯ ЛОВЛЯ - Мушка на реке требует техники.
+garnfangst - garnfangster - Garnfangst i fjorden gir middag. ; ЛОВ НЕВОДОМ - Лов сетями в фьорде даёт обед.
+lesekrok - lesekroker - Lesekrok med god stol er perfekt. ; ЧИТАЛЬНЫЙ УГОЛОК - Читайный уголок с хорошим креслом идеален.
+bokhylle - bokhyller - Bokhylle er full av romaner. ; КНИЖНЫЙ СТАК - Книжный стеллаж полон романов.
+leselampe - leselamper - Leselampe lyser opp boka. ; ЧИТАЛЬНАЯ ЛАМПА - Читайная лампа освещает книгу.
+øyestainedropper - øyestainedropper - Øyestainedropper mot tørre øyne. ; КАПЛИ ОТ СУХОСТИ ГЛАЗ - Капли от сухости глаз.
+leseglass - leseglass - Leseglass hjelper med smått skrift. ; ОЧКИ ДЛЯ ЧТЕНИЯ - Очки для чтения помогают с мелким шрифтом.
+en NOTATBOK - notatbøker - Notatbok for nye ideer. ; ТЕТРАДЬ - Тетрадь для новых идей.
+en PENN - penner - Penn til å skrive notater. ; Ручка - Ручка для записей.
+tusjpenn - tusjpenner - Tusjpenn til å markere viktig. ; МАРКЕР - Маркер для выделения важного.
+høyttaler - høyttalere - Høyttaler gir god lyd i rommet. ; КОЛОНКА - Колонка даёт хороший звук в комнате.
+hodetelefoner - hodetelefoner - Hodetelefoner blokkerer støy. ; НАУШНИКИ - Наушники блокируют шум.
+ørepropper - ørepropper - Ørepropper mot høye lyder. ; БЕРУШИ - Беруши от громких звуков.
+ladere - ladere - Ladere for telefon og nettbrett. ; ЗАРЯДКИ - Зарядки для телефона и планшета.
+strømnett - strømnett - Strømnett leverer kraft til hjemmet. ; ЭЛЕКТРОСЕТЬ - Электросеть поставляет энергию домой.
+router - rutere - Router gir WiFi til hele leiligheten. ; РОУТЕР - Роутер даёт WiFi всей квартире.
+tastatur - tastaturer - Trådløst tastatur er praktisk. ; КЛАВИАТУРА - Беспроводная клавиатура удобна.
+mus - mus - Optisk mus fungerer perfekt. ; МЫШЬ - Оптическая мышь работает идеально.
+skjerm - skjermer - Stor skjerm til jobb og film. ; ЭКРАН - Большой экран для работы и фильмов.
+webkamera - webkameraer - Webkamera for videosamtaler. ; ВЕБКАМЕРА - Вебкамера для видеозвонков.
+mikrofon - mikrofoner - God mikrofon til podkast. ; МИКРОФОН - Хороший микрофон для подкаста.
+fjernkontroll - fjernkontroller - Fjernkontroll til TV og lyd. ; ПУЛЬТ ДУ - Пульт для ТВ и звука.
+fjernsynsapparat - fjernsynsapparater - Fjernsynsapparat henger på veggen. ; ТЕЛЕВИЗОР - Телевизор висит на стене.
+dvd-spiller - dvd-spillere - DVD-spiller til gamle filmer. ; DVD-ПЛЕЕР - DVD-плеер для старых фильмов.
+streamingboks - streamingbokser - Streamingboks gir Netflix direkte. ; БОКС ДЛЯ СТРИМИНГА - Бокс для стриминга даёт Netflix напрямую.
+lydplanke - lydplanker - Lydplanke under TV gir kinoeffekt. ; ЗВУКОВАЯ ПАНЕЛЬ - Звуковая панель под ТВ даёт киноэффект.
+hjemmekino - hjemmekinoer - Hjemmekino med surround sound. ; ДОМАШНИЙ КИНОТЕАТР - Домашний кинотеатр с объёмным звуком.
+lerret - lerreter - Lerret til projektor i stua. ; ЭКРАН - Экран для проектора в гостиной.
+projektor - projektorer - Projektor projiserer film på veggen. ; ПРОЕКТОР - Проектор проецирует фильм на стену.
+blålysfilter - blålysfiltre - Blålysfilter reduserer øyebelastning. ; ФИЛЬТР СИНЕГО СВЕТА - Фильтр синего света снижает нагрузку на глаза.
+nattmodus - nattmoduser - Nattmodus på skjermen er skånsomt. ; НОЧНОЙ РЕЖИМ - Ночной режим экрана щадящий.
+lysbryter - lysbryttere - Lysbryter ved døra er praktisk. ; ВЫКЛЮЧАТЕЛЬ - Выключатель у двери удобен.
+dimmer - dimmere - Dimmer regulerer lysstyrke. ; ДИММЕР - Диммер регулирует яркость света.
+nattlampe - nattlamper - Nattlampe for barn som er redd. ; НОЧНИК - Ночник для испуганного ребёнка.
+sovepute - soveputer - Sovepute støtter nakken godt. ; ПОДУШКА ДЛЯ СНА - Подушка для сна хорошо поддерживает шею.
+dyne - dyner - Dun dyne er varm og lett. ; ОДЕЯЛО - Пуховое одеяло тёплое и лёгкое.
+sengetøy - sengetøy - Friskt sengetøy etter vask. ; ПОСТЕЛЬНОЕ БЁЛЬЁ - Свежие простыни после стирки.
+pyjamas - pyjamaser - Bomullspy jamas er behagelig. ; ПИЖАМА - Хлопковая пижама удобная.
+nattbilde - nattbilder - Nattbilde med måne lyser rommet. ; НОЧНАЯ КАРТИНА - Ночная картина с луной освещает комнату.
+morgenlys - morgenlys - Morgenlys våkner deg naturlig. ; УТРЕННИЙ СВЕТ - Утренний свет будит естественно.
+soloppgang - soloppganger - Soloppgang over fjorden er vakkert. ; ВОСХОД СОЛНЦА - Восход солнца над фьордом красив.
+solnedgang - solnedganger - Solnedgang fra balkongen er romantisk. ; ЗАКАТ - Закат с балкона романтичен.
+måneskinn - måneskinnet - Måneskinn lyser stien i natt. ; ЛУННЫЙ СВЕТ - Лунный свет освещает тропу ночью.
+stjernehimmel - stjernehimmeler - Klar stjernehimmel er fantastisk. ; ЗВЁЗДНОЕ НЕБО - Чистое звёздное небо фантастично.
+værvarm - værvorme - Værvarm jakke mot regn og vind. ; ТЁПЛЫЙ НА ПОГОДУ - Куртка тёплая на погоду.
+et VINDU - vinduer - Vindu mot hagen slipper inn lys. ; ОКНО - Окно в сад пропускает свет.
+gardiner - gardiner - Gardiner stenger lyset ute. ; ШТОРЫ - Шторы закрывают свет.
+persienner - persienner - Persienner regulerer lysinnslipp. ; ЖАЛЮЗИ - Жалюзи регулируют свет.
+balkongdør - balkongdører - Balkongdør åpnes for lufting. ; БАЛКОННАЯ ДВЕРЬ - Балконная дверь открывается для проветривания.
+en BALKONG - balkonger - Balkong med utsikt over byen. ; БАЛКОН - Балкон с видом на город.
+blomsterkasse - blomsterkasser - Blomsterkasse på balkongen blomstrer. ; ЦВЕТОЧНЫЙ ЯЩИК - Цветочный ящик на балконе цветёт.
+en URTEPOTTE - urtepotter - Urtepotte med basilikum på kjøkkenet. ; ГОРШОК ДЛЯ ТРАВ - Горшок с базиликом на кухне.
+krydderhage - krydderhager - Liten krydderhage i vinduskarmen. ; САДИК ПРЯНОСТЕЙ - Маленький садик пряностей на подоконнике.
+tomatplante - tomatplanter - Tomatplante gir ferske tomater. ; ТОМАТНОЕ РАСТЕНИЕ - Томатное растение даёт свежие помидоры.
+kjøkkenhage - kjøkkenhager - Kjøkkenhage med salat og urter. ; КУХОННЫЙ САД - Кухонный сад с салатом и травами.
+kompost - komposter - Kompost til planter i hagen. ; КОМПОСТ - Компост для растений в саду.
+resirkulering - resirkuleringer - Resirkulering redder miljøet. ; ПЕРЕРАБОТКА - Переработка спасает окружающую среду.
+panteflaske - panteflasker - Panteflaske gir rabatt i butikk. ; БУТЫЛКА С ДЕПОЗИТОМ - Бутылка с депозитом даёт скидку в магазине.
+glasskasse - glasskasser - Glasskasse for resirkulering. ; ЯЩИК ДЛЯ СТЕКЛА - Ящик для стеклотары.
+papirpose - papirposer - Papirpose til handleposer. ; БУМАЖНЫЙ ПАКЕТ - Бумажный пакет для покупок.
+plastpose - plastposer - Plastpose til småting. ; ПЛАСТИКОВЫЙ ПАКЕТ - Пластиковый пакет для мелочей.
+handlekurv - handlekurver - Handlekurv er praktisk i butikk. ; КОШИК ДЛЯ ПОКУПОК - Корзинка для покупок удобна в магазине.
+handleliste - handlelister - Handleliste hindrer impulskjøp. ; СПИСОК ПОКУПОК - Список покупок предотвращает импульсивные покупки.
+budsjett - budsjetter - Måneds budsjett holder kontroll. ; БЮДЖЕТ - Месячный бюджет контролирует расходы.
+sparekonto - sparekontoer - Spare konto vokser med renter. ; СБЕРЕГАТЕЛЬНЫЙ СЧЁТ - Сберегательный счёт растёт на процентах.
+lommebok - lommebøker - Lommebok med kort og kontanter. ; КОШЕЛЁК - Кошелёк с картами и наличными.
+bankkort - bankkort - Bankkort betaler alt digitalt. ; БАНКОВСКАЯ КАРТА - Банковская карта оплачивает всё онлайн.
+kontanter - kontanter - Kontanter trengs i småbutikken. ; НАЛИЧНЫЕ - Наличные нужны в маленьком магазинчике.
+seddel - sedler - 200-kroneseddel til parkeringsautomat. ; БАНКНОТА - Банкнота 200 крон для паркомата.
+mynter - mynter - Mynter til bussbillett. ; МОНЕТЫ - Монеты для автобусного билета.
+tips - tips - Tips til servitøren på 10%. ; ЧАЕВЫЕ - Чаевые официанту 10%.
+kvittering - kvitteringer - Kvittering etter hver betaling. ; ЧЕК - Чек после каждой оплаты.
+regning - regninger - Månedsregning kommer i posten. ; СЧЁТ - Месячный счёт приходит по почте.
+husleie - husleier - Husleie betales første i måneden. ; АРЕНДА КВАРТИРЫ - Аренда квартиры платится первого числа.
