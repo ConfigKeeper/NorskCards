@@ -1,50 +1,51 @@
-свидетель ; ≈ forlover (ved registrering av borgerlig ekteskap i Russland)
-сожитель, сожительница ; samboer
-суженая, суженый ; tilkommende
-ухажёр ; frier
-хахаль ; type
-Вы женаты (замужем от kvinne)? ; Er du gift?
-обеспечивать семью ; å brødfø familien
-я разведён, разведена ; jeg er skilt
-(мой) благоверная ; min bedre halvdel
-(мой) благоверный ; min (herr) gemål
-брак ; ekteskap n
-брак по расчёту ; fornuft(s)ekteskap
-вступить в брак с ; inngå ekteskap med
-гражданский брак ; borgerlig ekteskap
-расторгнуть брак с ; oppløse ekteskap med
-свидетельство о браке ; vielsestattest
-бракоразводный процесс ; skilsmisseprosess
-вдова, вдовец ; enke, enkemann
-«Весёлая вдова» ; «Den glade enke»
-соломенная вдова ; gressenke
-деверь ; svoger (bror til mannen)
-жена ; kone
-золовка ; svigerinne
-зять ; svigersønn
-муж ; mann (мн. menn)
-невестка ; svigerdatter
-новобрачные ; de nygifte, brudepar n
-одинокая, одинокий ; enslig, enlig, singel
-(моя) половина ; min kone, min mann
-моя дражайшая половина ; min bedre halvdel
-развестись ; la seg skille, skilles
-развод ; skilsmisse
-подать на развод ; søke skilsmisse
-получить развод ; oppnå, få skilsmisse
-раздельное проживание ; separasjon
-сват, сватья ; far/mor til svigerbarnet
-свёк(о)р ; svigerfar
-свекровь ; svigermor
-семьянин ; gift mann
-хороший семьянин ; god familiefar, husfar
-сноха ; svigerdatter (sønnens kone)
-спутница/спутник жизни ; livsledsager
-супруга ; hustru, frue, gemalinne
-супруг ; ektefelle, (ekte)måke, gemål
-супруги, супружеская пара, супружеская чета ; ektepar, ektefolk n
-тёща ; svigermor
-У Вас есть дети? ; Har du/De barn?  
-Я родился (m)/родилась в 1978 г. ; Jeg er født i 1978  
-Ибсен родился в 1828 г. ; Ibsen ble/var født i 1828 (og døde)  
-алименты ; barnebidrag n  
+беременная ; gravid, svanger  
+беременность ; svangerskap  
+отпуск по беременности и родам ; svangerskapspermisjon  
+близнецы ; tvillinger  
+воспитатель(ница) ; førskolelærer  
+двойня, двойняшки ; tvillinger  
+день рождения ; fødselsdag, geburtsdag, bursdag  
+дети от прежнего брака ; barn fra tidligere ekteskap  
+детский сад; садик tal. ; barnehage  
+единственный ребёнок (в семье) ; enebarn n  
+колыбель(ка) ; vogge, vugge  
+коляска ; barnevogn, babyvogn (лежачая), sportsvogn (сидячая)  
+крестить (и дать имя) ; døpe  
+крёстная (мать), крёстный (отец) ; gudmor, gudfar  
+крёстник, крёстница ; gudsønn, guddatter  
+кумовья (кум, кума) ; gudfedre/faddere (gudfar, gudmor) til barna  
+манеж ; lekegrind  
+мать-одиночка ; enslig mor, alenemor
+мачеха ; stemor
+молочный брат, молочная сестра ; pleiebror, pleiesøster
+«надежда семьи» ; pode
+няня, нянька ; barnepike, dadda dem, dagmamma
+отчим ; stefаr
+падчерица ; stedatter
+памперсы ; pampers
+пасынок ; stesønn
+пелёнка ; bleie
+первенец ; førstefødt
+подгузник ; bleie
+ползунки ; sparkebukser
+приёмный ребёнок ; et adoptert barn
+род(ильный) дом ; fødeklinikk
+роженица ; barselkvinne
+сводный брат ; halvbror
+сводная сестра ; halvsøster
+сводные дети ; sammenbrakte barn
+сирота ; et foreldreløst barn
+соска ; smokk
+сосюкать ; klysse, prate babyprat
+тёзка ; navnebror/-søster
+тезоименитство (om kongelige) ; navnedag
+тройняшки и т.п. ; trillinger, firlinger, femlinger
+удочерять, усыновить ; adoptere en pike, en gutt
+убаюкивать, укачивать ; bysse (dysse, lulle) i søvn, vogge, vugge
+ходунки ; gåstol
+ясли ; barnekrybbe, daghjem n
+Да будет земля ему пухом. ; Måtte hans sjel hvile i fred.
+Здесь покоится прах Н. ; Her hviler N. (Ns jordiske levninger)
+Мир праху твоему! ; Hvil i fred!
+О мёртвых или хорошо или ничего. ; Om de døde skal man bare tale godt.
+Он умер в 1924 году. ; Han døde i 1924.

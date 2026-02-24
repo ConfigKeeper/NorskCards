@@ -1,51 +1,45 @@
-беременная ; gravid, svanger  
-беременность ; svangerskap  
-отпуск по беременности и родам ; svangerskapspermisjon  
-близнецы ; tvillinger  
-воспитатель(ница) ; førskolelærer  
-двойня, двойняшки ; tvillinger  
-день рождения ; fødselsdag, geburtsdag, bursdag  
-дети от прежнего брака ; barn fra tidligere ekteskap  
-детский сад; садик tal. ; barnehage  
-единственный ребёнок (в семье) ; enebarn n  
-колыбель(ка) ; vogge, vugge  
-коляска ; barnevogn, babyvogn (лежачая), sportsvogn (сидячая)  
-крестить (и дать имя) ; døpe  
-крёстная (мать), крёстный (отец) ; gudmor, gudfar  
-крёстник, крёстница ; gudsønn, guddatter  
-кумовья (кум, кума) ; gudfedre/faddere (gudfar, gudmor) til barna  
-манеж ; lekegrind  
-мать-одиночка ; enslig mor, alenemor
-мачеха ; stemor
-молочный брат, молочная сестра ; pleiebror, pleiesøster
-«надежда семьи» ; pode
-няня, нянька ; barnepike, dadda dem, dagmamma
-отчим ; stefаr
-падчерица ; stedatter
-памперсы ; pampers
-пасынок ; stesønn
-пелёнка ; bleie
-первенец ; førstefødt
-подгузник ; bleie
-ползунки ; sparkebukser
-приёмный ребёнок ; et adoptert barn
-род(ильный) дом ; fødeklinikk
-роженица ; barselkvinne
-сводный брат ; halvbror
-сводная сестра ; halvsøster
-сводные дети ; sammenbrakte barn
-сирота ; et foreldreløst barn
-соска ; smokk
-сосюкать ; klysse, prate babyprat
-тёзка ; navnebror/-søster
-тезоименитство (om kongelige) ; navnedag
-тройняшки и т.п. ; trillinger, firlinger, femlinger
-удочерять, усыновить ; adoptere en pike, en gutt
-убаюкивать, укачивать ; bysse (dysse, lulle) i søvn, vogge, vugge
-ходунки ; gåstol
-ясли ; barnekrybbe, daghjem n
-Да будет земля ему пухом. ; Måtte hans sjel hvile i fred.
-Здесь покоится прах Н. ; Her hviler N. (Ns jordiske levninger)
-Мир праху твоему! ; Hvil i fred!
-О мёртвых или хорошо или ничего. ; Om de døde skal man bare tale godt.
-Он умер в 1924 году. ; Han døde i 1924.
+венок ; (blomster)krans
+возложение (венков, цветов) ; nedleggelse (av kranser, blomster), bekransning
+вывоз умерших ; hentetjeneste ved dødsfall
+гроб ; (lik)kiste, båre
+завещание ; testamente n
+захоронение fag. ; gravsted n
+кладбище ; kirkegård
+кончина ; bortgang, endelikt n
+крематорий ; krematorium n
+мёртвый ; død
+могила ; grav
+морг ; likhus n
+надгробие ; gravstein, gravstøtte
+наследник ; arving
+наследство ; arv
+некролог ; nekrolog
+погибнуть ; omkomme
+погребение ; begravelse
+покойный ; (den) avdøde
+поминки ; minnesamvær n, begravelsesgilde n
+быть на поминках ; drikke gråvøl n
+поминовение ; minnefest
+похороны ; begravelse (на кладбище), bisettelse (прощание в церкви или ритуальном зале, а также само погребение в городах, где имеется крематорий), urnenedsettelse (в колумбарии)
+похоронная процессия ; likfølge n
+похоронное бюро ; begravelsesbyrå n
+похоронный марш ; sørgemarsj
+почить (в бозе) ; sovne (stille) inn (i døden), sovne hen
+раздел имущества (покойного) ; oppgjør n av dødsbo
+«ритуальные услуги» ; begravelses- og kreasjonstjenester
+родные и близкие покойного ; de etterlatte, de (nærmeste) pårørende
+скончаться ; avgå ved døden, gå bort
+скорбная процессия ; sørgetog n, sørgeskare
+смерть ; død
+соболезнование ; kondolanse
+выразить соболезнование ; kondolere
+страхование жизни ; livsforsikring
+траур ; sorg, sørgeklær (мн.), sørgedrakt (одежда)
+траурная повязка ; sørgebånd n
+Троица ; Pinse
+уйти в иной/лучший мир ; gå over i den annen/en bedre verden
+умереть ; dø
+умерший ; (den) avdøde
+урна с прахом покойного ; urnen med den dødes aske
+усопший ; hensovet, hedenfaren, hedengangen
+хоронить/по~ ; bisette (о прощании в церкви или ритуальном зале, а также самом погребении в городах, где имеется крематорий), begrave (на кладбище)
