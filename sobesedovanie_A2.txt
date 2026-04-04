@@ -1,0 +1,100 @@
+en JOBB - jobber - Jeg vil gjerne ha denne jobben. ; РАБОТА - Я бы очень хотел получить эту работу.
+en ARBEIDSGIVER - arbeidsgivere - Arbeidsgiveren inviterte meg til intervju. ; РАБОТОДАТЕЛЬ - Работодатель пригласил меня на собеседование.
+en ARBEIDSTAKER - arbeidstakere - Alle arbeidstakere får ferie i juli. ; РАБОТНИК - Все работники получают отпуск в июле.
+et INTERVJU - intervjuer - Jeg har et intervju i morgen klokken ti. ; СОБЕСЕДОВАНИЕ - У меня завтра собеседование в десять часов.
+en CV - CV-er - Du må sende en CV med søknaden din. ; РЕЗЮМЕ - Ты должен отправить резюме вместе с заявлением.
+en SØKNAD - søknader - Jeg skrev en søknad til bedriften i går. ; ЗАЯВЛЕНИЕ - Я написал заявление в компанию вчера.
+en STILLING - stillinger - Selskapet har tre ledige stillinger. ; ДОЛЖНОСТЬ / ВАКАНСИЯ - В компании три свободные вакансии.
+en ERFARING - erfaringer - Hun har mye erfaring fra restaurantbransjen. ; ОПЫТ - У неё большой опыт в ресторанной сфере.
+en UTDANNING - utdanninger - Jeg har en utdanning i økonomi. ; ОБРАЗОВАНИЕ - У меня образование по экономике.
+en BEFARING - befaringer - Vi arrangerer en befaringsrundtur i morgen. ; ЭКСКУРСИЯ / ЗНАКОМСТВО С МЕСТОМ - Мы устраиваем экскурсию завтра.
+en LEDER - ledere - Lederen stilte meg mange gode spørsmål. ; РУКОВОДИТЕЛЬ - Руководитель задал мне много хороших вопросов.
+et SPØRSMÅL - spørsmål - Kan jeg stille et spørsmål til slutt? ; ВОПРОС - Можно я задам вопрос в конце?
+et SVAR - svar - Takk for et godt svar på dette spørsmålet. ; ОТВЕТ - Спасибо за хороший ответ на этот вопрос.
+en KVALIFIKASJON - kvalifikasjoner - Du har gode kvalifikasjoner for denne jobben. ; КВАЛИФИКАЦИЯ - У тебя хорошая квалификация для этой работы.
+en ARBEIDSPLASS - arbeidsplasser - Jeg liker arbeidsplassen min veldig godt. ; РАБОЧЕЕ МЕСТО - Мне очень нравится моё рабочее место.
+en KOLLEGA - kolleger - Mine kolleger er veldig hyggelige og hjelpsomme. ; КОЛЛЕГА - Мои коллеги очень приятные и отзывчивые.
+en LØNN - lønninger - Hva er lønnen for denne stillingen? ; ЗАРПЛАТА - Какая зарплата для этой должности?
+en AVTALE - avtaler - Vi signerte arbeidsavtalen i dag. ; СОГЛАШЕНИЕ / ДОГОВОР - Мы подписали трудовой договор сегодня.
+en KONTRAKT - kontrakter - Kontrakten gjelder i to år fra nå. ; КОНТРАКТ - Контракт действует два года с этого момента.
+en REFERANSE - referanser - Kan du gi meg to referanser fra tidligere arbeidsgivere? ; РЕКОМЕНДАЦИЯ - Можешь дать мне две рекомендации от прежних работодателей?
+en KLÆR - klær - Jeg kjøpte nye klær til intervjuet. ; ОДЕЖДА - Я купил новую одежду для собеседования.
+et MØTE - møter - Vi har et møte med sjefen på fredag. ; ВСТРЕЧА / СОБРАНИЕ - У нас встреча с начальником в пятницу.
+et KONTOR - kontorer - Jeg jobber på et stort kontor i sentrum. ; ОФИС - Я работаю в большом офисе в центре.
+en BEDRIFT - bedrifter - Hun jobber i en stor internasjonal bedrift. ; КОМПАНИЯ / ПРЕДПРИЯТИЕ - Она работает в большой международной компании.
+et TEAM - team - Vi er et godt team som samarbeider godt. ; КОМАНДА - Мы хорошая команда, которая хорошо сотрудничает.
+en OPPSIGELSE - oppsigelser - Han fikk oppsigelse fordi bedriften flyttet. ; УВОЛЬНЕНИЕ - Его уволили, потому что компания переехала.
+et MILJØ - miljøer - Vi har et veldig godt arbeidsmiljø her. ; ОБСТАНОВКА / СРЕДА - У нас здесь очень хорошая рабочая обстановка.
+en KARAKTER - karakterer - Jeg fikk gode karakterer på videregående. ; ОЦЕНКА - Я получал хорошие оценки в старшей школе.
+en ARBEIDSTID - arbeidstider - Arbeidstiden er fra klokken åtte til fire. ; РАБОЧЕЕ ВРЕМЯ - Рабочее время с восьми до четырёх часов.
+en PRØVETID - prøvetider - Det er tre måneders prøvetid i denne jobben. ; ИСПЫТАТЕЛЬНЫЙ СРОК - Испытательный срок составляет три месяца в этой работе.
+en LØNNSSAMTALE - lønnssamtaler - Vi må ha en lønnssamtale før vi signerer. ; БЕСЕДА О ЗАРПЛАТЕ - Нам нужно провести беседу о зарплате перед подписанием.
+en ARBEIDSERFARING - arbeidserfaringer - Han har lang arbeidserfaring fra flere bransjer. ; ТРУДОВОЙ ОПЫТ - У него большой трудовой опыт в нескольких сферах.
+en BEKREFTELSE - bekreftelser - Jeg venter på bekreftelse fra bedriften. ; ПОДТВЕРЖДЕНИЕ - Я жду подтверждения от компании.
+en KANDIDAT - kandidater - Vi har tre gode kandidater til stillingen. ; КАНДИДАТ - У нас три хороших кандидата на должность.
+et TIMELØNN - timelønner - Timelønnen er 220 kroner i timen. ; ПОЧАСОВАЯ ОПЛАТА - Почасовая оплата составляет 220 крон в час.
+en ANSVARSOMRÅDE - ansvarsområder - Du vil få flere ansvarsområder etter hvert. ; ОБЯЗАННОСТЬ / СФЕРА ОТВЕТСТВЕННОСТИ - У тебя будет больше обязанностей со временем.
+en OPPFØLGING - oppfølginger - Vi gjør en oppfølging etter to uker. ; ПОСЛЕДУЮЩИЙ КОНТАКТ - Мы делаем последующий контакт через две недели.
+en UTVELGELSE - utvelgelser - Utvelgelsen av kandidater tok to dager. ; ОТБОР - Отбор кандидатов занял два дня.
+en VURDERING - vurderinger - Vi gjør en grundig vurdering av alle søkere. ; ОЦЕНКА - Мы проводим тщательную оценку всех соискателей.
+en KONSEKVENS - konsekvenser - Hva blir konsekvensen hvis jeg sier nei? ; ПОСЛЕДСТВИЕ - Каковы будут последствия, если я откажусь?
+en SAMTALE - samtaler - Vi inviterer deg til en kort samtale på tirsdag. ; БЕСЕДА / РАЗГОВОР - Мы приглашаем вас на короткую беседу во вторник.
+en BEGJÆRING - begjæringer - Jeg sender en skriftlig begjæring om stillingen. ; ПРОСЬБА / ЗАЯВЛЕНИЕ - Я отправляю письменное заявление о должности.
+et VILKÅR - vilkår - Hvilke arbeidsvilkår kan dere tilby? ; УСЛОВИЕ - Какие условия работы вы можете предложить?
+en UTBYTTE - utbytter - Jeg håper på et godt utbytte av dette møtet. ; РЕЗУЛЬТАТ / ВЫГОДА - Я надеюсь на хороший результат от этой встречи.
+en PRAKSIS - praksiser - Jeg hadde praksis i en barnehage i tre måneder. ; ПРАКТИКА - Я проходил практику в детском саду три месяца.
+en SJEF - sjefer - Sjefen min er veldig grei og rettferdig. ; НАЧАЛЬНИК - Мой начальник очень справедливый.
+å SØKE - søkte - Jeg søker på en ny jobb fordi jeg vil utvikle meg. ; ПОДАВАТЬ ЗАЯВЛЕНИЕ - Я подаю заявку на новую работу, потому что хочу развиваться.
+å SVARE - svarte - Prøv å svare tydelig og ærlig på spørsmålet. ; ОТВЕЧАТЬ - Постарайся отвечать чётко и честно на вопрос.
+å FORTELLE - fortalte - Kan du fortelle litt om din arbeidserfaring? ; РАССКАЗЫВАТЬ - Можешь немного рассказать о твоём трудовом опыте?
+å INTERVJUE - intervjuet - Lederen intervjuet fem kandidater i dag. ; ПРОВОДИТЬ СОБЕСЕДОВАНИЕ - Руководитель провёл собеседование с пятью кандидатами сегодня.
+å ANSETTE - ansatte - Bedriften ansatte tre nye folk denne måneden. ; НАНИМАТЬ - Компания наняла трёх новых людей в этом месяце.
+å JOBBE - jobbet - Jeg har jobbet her i nesten tre år nå. ; РАБОТАТЬ - Я работаю здесь уже почти три года.
+å TJENE - tjente - Hvor mye tjener du i måneden nå? ; ЗАРАБАТЫВАТЬ - Сколько ты зарабатываешь в месяц сейчас?
+å STARTE - startet - Jeg kan starte i den nye jobben fra første august. ; НАЧИНАТЬ - Я могу начать новую работу с первого августа.
+å BESKRIVE - beskrev - Kan du beskrive din forrige arbeidsplass? ; ОПИСЫВАТЬ - Можешь описать твоё предыдущее рабочее место?
+å KOMMUNISERE - kommuniserte - Det er viktig å kommunisere godt med kunder. ; КОММУНИЦИРОВАТЬ - Важно хорошо общаться с клиентами.
+å LÆRE - lærte - Jeg er rask til å lære nye programmer og systemer. ; УЧИТЬСЯ - Я быстро учусь новым программам и системам.
+å LØSE - løste - Jeg kan løse problemer på en kreativ måte. ; РЕШАТЬ - Я могу решать проблемы творческим способом.
+å ARBEIDE - arbeidet - Jeg har arbeidet med salg i mange år. ; РАБОТАТЬ - Я работал в сфере продаж много лет.
+å SAMARBEIDE - samarbeidet - Jeg liker å samarbeide med kolleger på jobb. ; СОТРУДНИЧАТЬ - Мне нравится сотрудничать с коллегами на работе.
+å PLANLEGGE - planla - Jeg kan planlegge og organisere mitt eget arbeid. ; ПЛАНИРОВАТЬ - Я умею планировать и организовывать свою работу.
+å TREFFE - traff - Vi avtalte å treffes til intervju på mandag. ; ВСТРЕЧАТЬСЯ - Мы договорились встретиться для собеседования в понедельник.
+å VISE - viste - Han viste stor interesse for stillingen under intervjuet. ; ПОКАЗЫВАТЬ - Он проявил большой интерес к должности во время собеседования.
+å SIGNERE - signerte - Du må signere kontrakten før du begynner. ; ПОДПИСЫВАТЬ - Ты должен подписать контракт перед началом работы.
+å GJØRE - gjorde - Hva gjorde du på din forrige jobb hver dag? ; ДЕЛАТЬ - Что ты делал каждый день на прежней работе?
+å MØTE - møtte - Vi møtte tre gode kandidater denne uken. ; ВСТРЕЧАТЬ - Мы встретились с тремя хорошими кандидатами на этой неделе.
+å PRAKSISERE - praktiserte - Hun praktiserte som sykepleier i to år. ; ПРАКТИКОВАТЬ - Она практиковала как медсестра два года.
+å FULLFØRE - fullførte - Jeg fullførte videregående skole i fjor vår. ; ЗАВЕРШАТЬ - Я закончил старшую школу прошлой весной.
+å FORBEREDE - forberedte - Du bør forberede deg godt til intervjuet. ; ГОТОВИТЬСЯ - Тебе стоит хорошо подготовиться к собеседованию.
+å BEGYNNE - begynte - Jeg begynte i min første jobb som fjortenåring. ; НАЧИНАТЬ - Я начал свою первую работу в четырнадцать лет.
+å OPPGI - oppga - Husk å oppgi to referanser i søknaden din. ; УКАЗЫВАТЬ - Не забудь указать две рекомендации в твоём заявлении.
+å HENVENDE - henvendte - Jeg henvendte meg til bedriften per e-post. ; ОБРАЩАТЬСЯ - Я обратился в компанию по электронной почте.
+å KVALIFISERE - kvalifiserte - Kurset kvalifiserte meg for flere typer jobber. ; КВАЛИФИЦИРОВАТЬСЯ - Курс квалифицировал меня на несколько типов работ.
+å BIDRA - bidro - Jeg vil bidra med mine erfaringer til teamet. ; ВНОСИТЬ ВКЛАД - Я хочу внести вклад своим опытом в команду.
+å OPPDATERE - oppdaterte - Husk å oppdatere CV-en din før du søker. ; ОБНОВЛЯТЬ - Не забудь обновить своё резюме перед подачей заявки.
+å representere - representerte - Jeg vil gjerne representere deres bedrift. ; ПРЕДСТАВЛЯТЬ - Я бы хотел представлять вашу компанию.
+FORTELL OM DEG SELV - - Kan du fortelle litt om deg selv? ; РАССКАЖИ О СЕБЕ - Можете немного рассказать о себе?
+HVORFOR VIL DU JOBBE HER - - Hvorfor vil du jobbe hos oss? ; ПОЧЕМУ ТЫ ХОЧЕШЬ РАБОТАТЬ ЗДЕСЬ - Почему ты хочешь работать у нас?
+HVILKE STYRKER HAR DU - - Hvilke styrker har du som arbeidstaker? ; КАКИЕ У ТЕБЯ СИЛЬНЫЕ СТОРОНЫ - Какие у тебя сильные стороны как работника?
+HVILKE SVAKHETER HAR DU - - Hvilke svakheter mener du at du har? ; КАКИЕ У ТЕБЯ СЛАБЫЕ СТОРОНЫ - Какие слабые стороны, по твоему мнению, у тебя есть?
+NÅR KAN DU STARTE - - Når kan du starte i den nye stillingen? ; КОГДА ТЫ МОЖЕШЬ НАЧАТЬ - Когда ты можешь приступить к новой должности?
+HVA ER LØNNSFORVENTNINGENE DINE - - Hva er lønnsforventningene dine for denne stillingen? ; КАКИЕ У ТЕБЯ ОЖИДАНИЯ ПО ЗАРПЛАТЕ - Каковы твои ожидания по зарплате для этой должности?
+HVA KAN DU BIDRA MED - - Hva kan du bidra med i vår bedrift? ; ЧЕМ ТЫ МОЖЕШЬ ВНЕСТИ ВКЛАД - Чем ты можешь внести вклад в нашу компанию?
+HVORFOR FORLOT DU FORRIGE JOBB - - Hvorfor forlot du den forrige arbeidsplassen din? ; ПОЧЕМУ ТЫ ПОКИНУЛ ПРЕДЫДУЩУЮ РАБОТУ - Почему ты покинул предыдущее рабочее место?
+HVOR SER DU DEG SELV OM FEM ÅR - - Hvor ser du deg selv om fem år? ; ГДЕ ТЫ ВИДИШЬ СЕБЯ ЧЕРЕЗ ПЯТЬ ЛЕТ - Где ты видишь себя через пять лет?
+MOTIVERT - - Jeg er motivert og klar for nye utfordringer. ; МОТИВИРОВАННЫЙ - Я мотивирован и готов к новым вызовам.
+ERFAREN - - Hun er veldig erfaren i kundeservice. ; ОПЫТНЫЙ - Она очень опытна в обслуживании клиентов.
+SELVSTENDIG - - Jeg kan jobbe selvstendig og ta egne avgjørelser. ; САМОСТОЯТЕЛЬНЫЙ - Я могу работать самостоятельно и принимать собственные решения.
+SOSIAL - - Han er sosial og liker å snakke med folk. ; ОБЩИТЕЛЬНЫЙ - Он общительный и любит разговаривать с людьми.
+PUNKTLIG - - Jeg er alltid punktlig og kommer i god tid. ; ПУНКТУАЛЬНЫЙ - Я всегда пунктуален и прихожу заранее.
+ANSVARLIG - - Hun er ansvarlig og kan lede et lite team. ; ОТВЕТСТВЕННЫЙ - Она ответственная и может руководить небольшой командой.
+FLEKSIBEL - - Jeg er fleksibel og kan jobbe ekstra ved behov. ; ГИБКИЙ - Я гибкий и могу работать дополнительно при необходимости.
+AMBITIØS - - Han er ambisiøs og vil lære seg nye ting hele tiden. ; АМБИЦИОЗНЫЙ - Он амбициозен и хочет постоянно учиться новому.
+KREATIV - - Jeg er kreativ og har mange gode ideer. ; КРЕАТИВНЫЙ - Я креативный и у меня много хороших идей.
+LÆREVILLIG - - Jeg er lærevillig og lærer fort nye ting. ; СПОСОБНЫЙ К ОБУЧЕНИЮ - Я способен к обучению и быстро усваиваю новое.
+OMGJENGELIG - - Hun er omgjengelig og likt av alle kolleger. ; КОМПАНИЙСКИЙ - Она компанейская и нравится всем коллегам.
+TAKK FOR INTERVJUET - - Takk for intervjuet, vi kontakter deg innen en uke. ; СПАСИБО ЗА СОБЕСЕДОВАНИЕ - Спасибо за собеседование, мы свяжемся с вами в течение недели.
+VI RINGER TILBAKE - - Vi ringer deg tilbake innen tre virkedager. ; МЫ ПЕРЕЗВОНИМ - Мы перезвоним вам в течение трёх рабочих дней.
+FULLTID - - Jeg vil gjerne jobbe heltid fra mandag til fredag. ; ПОЛНЫЙ РАБОЧИЙ ДЕНЬ - Я бы хотел работать полный день с понедельника по пятницу.
+DELTID - - Jeg søker en deltidsstilling på femti prosent. ; НЕПОЛНЫЙ РАБОЧИЙ ДЕНЬ - Я ищу должность на неполный день, пятьдесят процентов.
